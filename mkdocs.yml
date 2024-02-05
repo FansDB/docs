@@ -2,6 +2,7 @@ site_name: FansDB Docs
 site_url: https://fansdb.github.io/docs #https://docs.fansdb.cc
 repo_name: FansDB/docs
 repo_url: https://github.com/FansDB/docs
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -64,6 +65,11 @@ plugins:
         - categories
         - tags   
       comments_path: "#__comments"
+  - git-revision-date-localized:
+      enable_creation_date: true
+  - git-committers:
+      repository: FansDB/docs
+      branch: main
 #  - social:
 #      cards_layout: default/variant
 
