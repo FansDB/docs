@@ -1,0 +1,229 @@
+# Platforms
+
+## Requirements
+
+- [x] Have to perform age verification before allowing creators to post any content.
+- [x] Have to be individual creator focused. 
+    * The creator is the primary producer and participant in the content. 
+    * Not produced by a professional porn studio. 
+    * Features real life people, not drawn, animated, rendered or generated. 
+- [x] Have to be focused on original content.
+- [x] Does not offer clips or full scenes from professional porn studios.
+
+!!! note
+    If there is a platform you would like to be added suggest them [here](https://cryptpad.fr/sheet/#/2/sheet/edit/6DWaSIONfZN4Ty0S2+nEpT6q/){target=_blank} and we will review it.
+
+## Approved Platforms
+
+### [+AddFriends](https://addfriends.com/){target=_blank}
+
++AddFriends is a subscription based site. 
+
+### [4based](https://4based.com/){target=_blank}
+
+4based is a subscription based site. 
+
+### [4MyFans](https://4my.fans/){target=_blank}
+
+4MyFans is a subscription based site. 
+
+### [AdmireMe](https://admireme.vip/){target=_blank}
+
+AdmireMe is a subscription based site. 
+
+### [APClips](https://apclips.com/){target=_blank}
+
+APClips is a subscription and pay-per-view based site. 
+
+### [BestFans](https://www.bestfans.com/){target=_blank}
+
+BestFans is a subscription based site. 
+
+### [BongaCams](https://bongacams.com/){target=_blank}
+
+BongaCams is a webcam streaming and pay-per-view based site.
+
+### [CamSoda](https://www.camsoda.com){target=_blank}
+
+CamSoda is a webcam streaming and pay-per-view based site. 
+
+### [Chaturbate](https://chaturbate.com){target=_blank}
+
+Chaturbate is a webcam streaming and pay-per-view based site. 
+
+### [F2F (friends2follow)](https://f2f.com/){target=_blank}
+
+F2F (friends2follow) is a subscription based site. 
+
+### [Fancentro](https://fancentro.com/){target=_blank}
+
+Fancentro is a subscription and pay-per-view based site. 
+
+### [Fanplace](https://fanplace.com/){target=_blank}
+
+Fanplace is a subscription based site. 
+
+### [fanseven](https://fanseven.com/){target=_blank}
+
+fanseven is a subscription and pay-per-view based site. 
+
+### [Fansly](https://fansly.com/){target=_blank}
+
+Fansly is a subscription based site. 
+
+### [Fansoda](https://www.fansoda.com/){target=_blank}
+
+Fansoda is a subscription based site. 
+
+### [Fantia](https://fantia.jp/){target=_blank}
+
+Fantia is a subscription and pay-per-view based site.
+
+- Only "live-action" content featuring real people is allowed.
+- Animated, drawn, 2D and 3D content is not allowed.
+
+### [FC2](https://adult.contents.fc2.com/){target=_blank}
+
+FC2 is a pay-per-view based site.
+
+### [Frisk](https://frisk.chat/){target=_blank}
+
+Frisk is a subscription and pay-per-view based site.
+
+### [HoneyDrip](https://honeydrip.com/){target=_blank}
+
+HoneyDrip is a subscription based site.
+
+### [JustForFans](https://justfor.fans/){target=_blank}
+
+JustForFans is a subscription and pay-per-view based site. 
+
+### [JVID](https://jvid.com/){target=_blank}
+
+JVID is a subscription and pay-per-view based site. 
+
+### [Loverfans](https://www.loverfans.com/){target=_blank}
+
+Loverfans is a subscription and pay-per-view based site. 
+
+### [LoyalFans](https://www.loyalfans.com/){target=_blank}
+
+LoyalFans is a subscription and pay-per-view based site. 
+
+### [ManyVids](https://manyvids.com/){target=_blank}
+
+ManyVids is a subscription and pay-per-view based site. 
+
+### [MFC Share](https://share.myfreecams.com){target=_blank}
+
+MFC Share is a webcam streaming and pay-per-view based site. 
+
+### [ModelCentro](https://modelcentro.com/){target=_blank}
+
+ModelCentro is a personal subscription site platform.
+
+### [MyClub](https://my.club/){target=_blank}
+
+MyClub is a subscription based site. 
+
+### [MyDirtyHobby](https://www.mydirtyhobby.com/){target=_blank}
+
+MyDirtyHobby is a webcam streaming and pay-per-view based site. 
+
+### [MYM](https://mym.fans/){target=_blank}
+
+MYM is a subscription based site. 
+
+### [OnlyFans](https://onlyfans.com/){target=_blank}
+
+OnlyFans is a subscription based site. 
+
+### [Peach](https://legacy.peach.com/){target=_blank}
+
+Peach is a subscription based site. 
+
+### [Privacy](https://privacy.com.br/){target=_blank}
+
+Privacy is a subscription based site. 
+
+### [Sheer](https://www.sheer.com/){target=_blank}
+
+Sheer is a subscription and pay-per-view based site.  
+
+### [Slushy](https://www.slushy.com/){target=_blank}
+
+Slushy is a subscription and pay-per-view based site.  
+
+### [SWAG](https://swag.live/){target=_blank}
+
+SWAG is a webcam streaming and pay-per-view based site. 
+
+### [UnlockedXX](https://www.unlockedxx.com/){target=_blank}
+
+UnlockedXX is a subscription and pay-per-view based site.  
+
+### [UVIU](https://www.uviu.com/){target=_blank}
+
+UVIU is a subscription and pay-per-view based site.  
+
+### [XXXCLUSIVE](https://xxxclusive.com/){target=_blank}
+
+XXXCLUSIVE is a subscription and pay-per-view based site.  
+
+## Banned Platforms
+
+### [Clips4Sale](https://www.clips4sale.com){target=_blank}
+
+Reason: Primarily focused on clips that doesn't have set performers and is often produced by the off camera producer.
+
+### [Fanfix](https://www.fanfix.io){target=_blank}
+
+Reason: Doesn't allow adult content. 
+
+### [IWantClips](https://iwantclips.com){target=_blank}
+
+Reason: Primarily focused on clips that doesn't have set performers and is often produced by the off camera producer.
+
+### [MemberMe](https://memberme.net){target=_blank}
+
+Reason: Allows posting content prior to age verification.
+
+### [Patreon](https://www.patreon.com){target=_blank}
+
+Reason: Allows posting content prior to age verification.
+
+### [Pornhub](https://www.pornhub.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
+
+### [Pornhub Premium](https://www.pornhubpremium.com){target=_blank}
+
+Reason: Offers clips and full scenes from professional studios. 
+
+### [RedGIFs](https://www.redgifs.com){target=_blank}
+
+Reason: Allows posting content prior to age verification.
+
+### [UMD](https://umd.net){target=_blank}
+
+Reason: Offers clips and full scenes from professional studios. 
+
+### [xHamster](https://xhamster.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
+
+### [XNXX](https://www.xnxx.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
+
+### [XNXX GOLD](https://www.xnxx.gold){target=_blank}
+
+Reason: Offers full scenes from professional studios. 
+
+### [XVideos](https://www.xvideos.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
+
+### [XVideos RED (XV Premium)](https://www.xvideos.red){target=_blank}
+
+Reason: Offers full scenes from professional studios. 

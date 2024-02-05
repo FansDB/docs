@@ -1,0 +1,101 @@
+site_name: FansDB Docs
+site_url: https://fansdb.github.io/docs #https://docs.fansdb.cc
+repo_name: FansDB/docs
+repo_url: https://github.com/FansDB/docs
+
+theme:
+  name: material
+  custom_dir: overrides
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - search.highlight
+    - search.share
+    - navigation.instant
+    - navigation.instant.progress
+#    - content.code.copy
+#    - content.code.annotate 
+#    - navigation.tracking
+    - navigation.tabs
+#    - navigation.tabs.sticky
+    - navigation.sections
+    - toc.follow
+    - navigation.top
+#    - navigation.footer
+    - navigation.indexes
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      #primary: indigo
+      #accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      #primary: red
+      #accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  favicon: assets/images/favicon.png
+
+plugins:
+  - search
+  - blog:
+        blog_dir: news
+        post_date_format: yyyy-MM-dd
+        post_url_date_format: yyyy/MM/dd
+        authors: true
+        authors_file: "{blog}/.authors.yml"
+        categories_toc: false
+        pagination: false
+        post_readtime: true
+        post_readtime_words_per_minute: 265
+  - rss:
+      match_path: news/posts/.* 
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags   
+      comments_path: "#__comments"
+#  - social:
+#      cards_layout: default/variant
+
+markdown_extensions:
+  - attr_list
+  - abbr
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - footnotes
+  - pymdownx.snippets
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Home: index.md
+  - Guidelines:
+    - Performers: performers.md
+    - Scenes: scenes.md
+    - Studios: studios.md
+    - Tags: tags.md
+    - Platforms: platforms.md
+  - News:
+    - news/index.md
+
+extra:
+  social:
+    - icon: simple/opencollective
+      link: https://opencollective.com/stashapp
+    - icon: fontawesome/brands/github
+      link: https://github.com/FansDB
+#    - icon: simple/codeberg
+#      link: https://codeberg.org/FansDB
