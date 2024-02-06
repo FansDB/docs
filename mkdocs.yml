@@ -1,14 +1,18 @@
 site_name: FansDB Docs
-site_url: https://fansdb.github.io/docs #https://docs.fansdb.cc
+site_url: https://docs.fansdb.cc
+site_description: >-
+  FansDB is user-curated metadata database focused on individual adult content creators
+
 repo_name: FansDB/docs
 repo_url: https://github.com/FansDB/docs
 edit_uri: edit/main/docs/
+
+copyright: Copyright &copy; 2023 - 2024 FansDB
 
 theme:
   name: material
   custom_dir: overrides
   features:
-    - announce.dismiss
     - content.action.edit
     - content.action.view
     - search.highlight
@@ -25,6 +29,7 @@ theme:
     - navigation.top
 #    - navigation.footer
     - navigation.indexes
+    - content.tooltips
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -70,8 +75,12 @@ plugins:
   - git-committers:
       repository: FansDB/docs
       branch: main
+      enabled: !ENV [CI, false]
 #  - social:
 #      cards_layout: default/variant
+
+watch:
+  - includes
 
 markdown_extensions:
   - attr_list
@@ -80,7 +89,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - footnotes
-  - pymdownx.snippets
+  - pymdownx.snippets:
+      auto_append:
+        - includes/abbreviations.md
   - toc:
       permalink: true
   - pymdownx.tasklist:
