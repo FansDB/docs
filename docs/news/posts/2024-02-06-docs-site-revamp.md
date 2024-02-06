@@ -17,7 +17,7 @@ Some of the changes:
 - Light/dark theme
 - Search
 - GitHub comments under news articles
-- Showing the creation/update GitHub date and contributos at the end of the pages.
+- Showing the creation/update GitHub date and contributors at the end of the pages.
 
 We are adding a RSS feed and JSON feed support, so you can subscribe via your reader of choice to stay better informed. There are 2 feeds. One is for newly created pages, another one for updated pages.  
 
