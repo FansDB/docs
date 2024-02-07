@@ -76,19 +76,23 @@ plugins:
       repository: FansDB/docs
       branch: main
       enabled: !ENV [CI, false]
-#  - social:
-#      cards_layout: default/variant
+  - glightbox
+  - social:
+      enabled: !ENV [CI, false]
+      cards_layout: default/variant
 
 watch:
   - includes
 
 markdown_extensions:
   - attr_list
+  - md_in_html
   - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - footnotes
+  - tables
   - pymdownx.snippets:
       auto_append:
         - includes/abbreviations.md
@@ -96,6 +100,14 @@ markdown_extensions:
       permalink: true
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
   - Home: index.md

@@ -8,9 +8,9 @@ hide:
 
 ## What is FansDB?
 
-FansDB is user-curated metadata database focused on individual adult content creators. It runs on [stash-box](https://github.com/stashapp/stash-box){target=_blank} which takes advantage of perceptual hashing to make matching your existing files to metadata stored on FansDB super easy, barely an inconvenience. 
+FansDB is user-curated metadata database focused on individual adult content creators. It runs on stash-box[^1] which takes advantage of perceptual hashing to make matching your existing files to metadata stored on FansDB super easy, barely an inconvenience. 
 
-To make the most of it you should also install a local adult content organizer called [Stash](https://github.com/stashapp/stash){target=_blank} developed by the same team. Follow their [documentation](https://docs.stashapp.cc/getting-started/){target=_blank} to get started.
+To make the most of it you should also install a local adult content organizer called Stash[^2] developed by the same team. Follow their documentation[^3] to get started.
 
 ## Guidelines
 
@@ -29,3 +29,7 @@ To make the most of it you should also install a local adult content organizer c
 5. Go to your local Stash and go to `Settings` > `Metadata Providers` > `Stash-box Endpoints` > `Add`.
 6. Enter the **Name**, **GraphQL endpoint**, **API key** and click `Confirm`. You can also click `Test Credentials` to make sure everything is correct.
 7. The endpoint is now added and can be used to scrape metadata like with any other scraper. 
+
+[^1]: [stash-box repository](https://github.com/stashapp/stash-box){target=_blank}
+[^2]: [Stash repository](https://github.com/stashapp/stash){target=_blank}
+[^3]: [Stash documentation](https://docs.stashapp.cc/getting-started/){target=_blank}
