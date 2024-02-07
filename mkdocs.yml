@@ -79,7 +79,6 @@ plugins:
   - glightbox
   - social:
       enabled: !ENV [CI, false]
-      cards_layout: default/variant
 
 watch:
   - includes
