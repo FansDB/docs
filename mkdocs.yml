@@ -30,6 +30,7 @@ theme:
 #    - navigation.footer
     - navigation.indexes
     - content.tooltips
+    - content.tabs.link
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -115,7 +116,7 @@ nav:
     - Scenes: scenes.md
     - Studios: studios.md
     - Tags: tags.md
-    - Platforms: platforms.md
+    - Networks: networks.md
   - News:
     - news/index.md
 
@@ -127,3 +128,6 @@ extra:
       link: https://github.com/FansDB
 #    - icon: simple/codeberg
 #      link: https://codeberg.org/FansDB
+
+extra_css:
+  - stylesheets/extra.css

@@ -4,7 +4,7 @@ date: 2024-01-20
 authors: [dogmadragon]
 slug: FansDB-scope-expansion-and-new-platforms
 categories:
-  - Platforms
+  - Networks
 comments: true
 ---
 

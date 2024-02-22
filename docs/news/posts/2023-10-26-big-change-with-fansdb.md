@@ -4,7 +4,7 @@ date: 2023-10-26
 authors: [dogmadragon]
 slug: big-change-with-FansDB
 categories:
-  - Platforms
+  - Networks
 comments: true
 ---
 

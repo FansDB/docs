@@ -1,19 +1,34 @@
 # Tags
 
-## Creating New Tags
+!!! warning
+    Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.
 
-1. No bulk importing of tags is allowed.
-2. Keep tags user relatable and matching their descriptions.
+## Mandatory details
 
-## Categories
+To create a new tag, some minimum required information needs to be included. 
 
-1. When creating a new tag choose an appropriate category. 
+<div class="annotate" markdown>
+- :fontawesome-solid-circle-exclamation: Name
+- :fontawesome-solid-circle-exclamation: Description
+- :fontawesome-solid-circle-exclamation: Category
+</div>
 
-## Description
+## Descriptions
 
-1. Descriptions are not required, but highly encouraged.
+1. Description should be narrow in scope. 
 
 ## Aliases
 
 1. Avoid adding niche aliases that are unlikely to be used by multiple people. 
-2. Try to keep aliases as narrow in scope as possible.
+1. Aliases need to be as narrow in scope as possible.
+
+## Categories
+
+1. Choose the category that best fits the tag. 
+
+## Sources
+
+1. Do not bulk import tags.
+1. Do not blind copy tags from other sources.[^1]
+
+[^1]: [StashDB](https://stashdb.org){target=_blank} might be a good source on its own, but their sourcing methodology doesn't match ours. 

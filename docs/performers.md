@@ -1,30 +1,64 @@
 # Performers
 
-!!! warning "Age and Verification"
-    All performers must be of legal age and verified by at least one approved platform.
+!!! warning
+    Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.
 
-## Naming Conventions
+## Mandatory details
 
-1. Performers primary name should be their most recognizable one. 
-    1. Performers with single word or common names should use username of one of the approved platforms as primary name instead.   
-2. Usernames from approved content platforms need be added as aliases.
-3. Other names performer used in work associated with adult content production can be added as aliases. 
-    1. Social media handles are allowed as aliases, but not required.    
-4. Don't add performer given names or private social media accounts as aliases if they are not used in their adult work.
+To create or submit a new performer, some minimum required information needs to be included. 
 
-## Link Requirements
+<div class="annotate" markdown>
+- :fontawesome-solid-circle-exclamation: Unique primary name(1)
+- :fontawesome-solid-circle-exclamation: Gender(2)
+- :fontawesome-solid-circle-exclamation: At least 1 live or defuct[^1] link from approved network(3)
+- :fontawesome-solid-circle-exclamation: Any usernames from submitted network links have to be added as aliases(4)
+</div>
+1.  Using `FirstName LastName` is preferred, but unique username can also be used.
+2.  In cases where a performer identifies differently in their daily life, use the gender they use for adult content production.
+3.  We rely on these networks for performer age verification. 
+4.  Helps avoid duplicate submissions and improves discoverability. 
 
-1. All performers must contain at least one link from the approved platforms (see full list here [here](/platforms)).
-    1. For defunct links please include proof that the account existed in the submission comment. It can be a screenshot of a watermark or 1st party post to performer linking or promoting that account.  
-2. All known defunct links should be added and kept for prosperity and ability to lookup information from archives.
+## Naming structure
 
+<div class="annotate" markdown>
+1. For primary name, `FirstName LastName` is preferred, but unique username can also be used.
+1. Add as many relevant aliases to help match the performer.(1)
+1. Adding legal names or private social media handles is forbidden. Except in cases where the performer is using their legal name in adult content production.
+1. Each name and aliases added need to be properly sourced in the submitted links or comments. 
+</div>
+1.  Relevant aliases can be social media handles, professional porn names or petnames. 
+
+## Links
+
+<div class="annotate" markdown>
+1. Only links that have a matching site can be added.
+1. Defunct links can be added and must be kept.(1)
+1. Defunct network links require additional proof.[^1] 
+1. Links that redirect to a different account, should include both links. Except in cases where they redirect to an unrelated performer.
+</div>
+1.  Defunct links are kept for prosperity and ability to lookup information from archives.
+
+!!! tip
+    When adding links, make sure to click `Add` when adding links manually. 
+
+??? "Suggest a site"
+    If there is a site you would like to be added, you can suggest them [in this document](https://cryptpad.fr/sheet/#/2/sheet/edit/6DWaSIONfZN4Ty0S2+nEpT6q/){target=_blank} and we will review it.
+         
 ## Images
 
-1. Performer images should have no image filters applied to them.  
-2. No images that contain multiple people should be added.  
-3. Animated images are not allowed. 
+<div class="annotate" markdown>
+1. Images main purpose is being able to identify the performer.
+1. Images must have only the performer and no other people.
+1. Try using a variety of different image shot types. From portrait shots to full body shots.(1) 
+1. Do not add images where performer face is not visible. Except in cases where no pictures with performer face exists. 
+1. Do not add images that have filters applied to them.
+1. Do not add animated images.
+</div>
+1.  Main purpose of these images is being able to identify the performer. It shouldn't be used as a way to host your favorites.
 
-## Couple Accounts
+## Couple accounts
 
-1. Account is considered a couple account if all the content features both performers, or either of them solo, or with other people while both of them are present.
-1. In these cases the account username should be added as alias and have a link included on both performer profiles.
+1. An account is considered a couple account if all the content features both performers, or either of them solo, or with other people while both of them are present.
+1. In these cases, the account username should be added as alias and have a link included on both performer profiles.
+
+[^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
