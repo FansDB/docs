@@ -59,6 +59,10 @@ F2F (friends2follow) is a subscription based site.
 
 Fancentro is a subscription and pay-per-view based site. 
 
+#### [FanFever](https://fanfever.com){target=_blank}
+
+FanFever is a subscription and pay-per-view based site. 
+
 #### [Fanplace](https://fanplace.com/){target=_blank}
 
 Fanplace is a subscription based site. 
@@ -85,6 +89,10 @@ Fantia is a subscription and pay-per-view based site.
 #### [FC2](https://adult.contents.fc2.com/){target=_blank}
 
 FC2 is a pay-per-view based site.
+
+#### [Findrow](https://findrow.com/){target=_blank}
+
+Findrow is a subscription and pay-per-view based site.
 
 #### [Frisk](https://frisk.chat/){target=_blank}
 
@@ -166,6 +174,10 @@ UnlockedXX is a subscription and pay-per-view based site.
 
 UVIU is a subscription and pay-per-view based site.  
 
+#### [VISIT-X](https://www.visit-x.net/){target=_blank}
+
+VISIT-X is a webcam and pay-per-view based site.  
+
 #### [XXXCLUSIVE](https://xxxclusive.com/){target=_blank}
 
 XXXCLUSIVE is a subscription and pay-per-view based site.  
@@ -227,3 +239,7 @@ Reason: Offers clips from professional studios.
 #### [XVideos RED (XV Premium)](https://www.xvideos.red){target=_blank}
 
 Reason: Offers full scenes from professional studios. 
+
+#### [Vends Ta Culotte](https://www.vends-ta-culotte.com){target=_blank}
+
+Reason: Allows posting content prior to age verification.
