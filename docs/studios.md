@@ -48,10 +48,14 @@ To create a new studio, some minimum required information needs to be included.
 
 ## Images
 
-1. Images must contain performer username, name, or some other identifiable text on top of it.
+<div class="annotate" markdown>
+1. Images are optional. 
+1. If added, images must contain performer username, name, or some other identifiable text on top of it.(1)
 1. In cases where official logo exists, it should be used and kept. 
 1. User generated, or composed images are welcome.
 1. In cases where the performer has multiple studios, please use unique images for each of them. Except when it's an official logo. 
+</div>
+1.  Plain performer images are better suited for the performer profile instead. 
 
 ## Multiple accounts
 
