@@ -58,7 +58,14 @@ To create or submit a new performer, some minimum required information needs to 
 
 ## Couple accounts
 
+<div class="annotate" markdown>
 1. An account is considered a couple account if all the content features both performers, or either of them solo, or with other people while both of them are present.
-1. In these cases, the account username should be added as alias and have a link included on both performer profiles.
+1. In these cases, the account username should be added as alias and have a link included on both performer profiles.(1)
+</div>
+1.  If you can't find unique name for them, use the username of the account and include unique disambiguation to help with identification.
+
+??? example
+    - [Audrey (audreyandsadie)](https://fansdb.cc/performers/3c053fe3-7a95-4c8b-9324-ddce6d3d08ae)
+    - [Sadie (audreyandsadie)](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03)
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
