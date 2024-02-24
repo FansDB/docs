@@ -65,7 +65,7 @@ To create or submit a new performer, some minimum required information needs to 
 1.  If you can't find unique name for them, use the username of the account and include unique disambiguation to help with identification.
 
 ??? example
-    - [Audrey (audreyandsadie)](https://fansdb.cc/performers/3c053fe3-7a95-4c8b-9324-ddce6d3d08ae)
-    - [Sadie (audreyandsadie)](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03)
+    - [Audrey (audreyandsadie)](https://fansdb.cc/performers/3c053fe3-7a95-4c8b-9324-ddce6d3d08ae){target=_blank}
+    - [Sadie (audreyandsadie)](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03){target=_blank}
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
