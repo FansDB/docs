@@ -10,7 +10,7 @@ To create or submit a new performer, some minimum required information needs to 
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Unique primary name(1)
 - :fontawesome-solid-circle-exclamation: Gender(2)
-- :fontawesome-solid-circle-exclamation: At least 1 live or defuct[^1] link from approved network(3)
+- :fontawesome-solid-circle-exclamation: At least 1 live or defuct[^1] link from approved network[^2](3)
 - :fontawesome-solid-circle-exclamation: Any usernames from submitted network links have to be added as aliases(4)
 </div>
 1.  Using `FirstName LastName` is preferred, but unique username can also be used.
@@ -69,3 +69,4 @@ To create or submit a new performer, some minimum required information needs to 
     - [Sadie (audreyandsadie)](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03){target=_blank}
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
+[^2]: See [Networks](/networks) for full list of approved networks. 

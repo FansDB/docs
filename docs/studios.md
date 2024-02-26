@@ -10,7 +10,7 @@ To create a new studio, some minimum required information needs to be included.
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Name
 - :fontawesome-solid-circle-exclamation: Network
-- :fontawesome-solid-circle-exclamation: Live or defuct[^1] link from approved network
+- :fontawesome-solid-circle-exclamation: Live or defuct[^1] link from approved network[^2]
 </div>
 
 ## Names
@@ -63,3 +63,4 @@ To create a new studio, some minimum required information needs to be included.
 1. Removed or renamed accounts must also have a separate studio.
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
+[^2]: See [Networks](/networks) for full list of approved networks. 
