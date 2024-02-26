@@ -182,7 +182,7 @@ VISIT-X is a webcam and pay-per-view based site.
 
 XXXCLUSIVE is a subscription and pay-per-view based site.  
 
-## Banned Platforms
+## Banned networks
 
 #### [Clips4Sale](https://www.clips4sale.com){target=_blank}
 
