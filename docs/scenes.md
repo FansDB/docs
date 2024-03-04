@@ -47,11 +47,12 @@ Limitations:
 
 <div class="annotate" markdown>
 1. All credited or mentioned performers must be added.(1) 
-1. Uncredited performers should be tagged with an appropriate missing performer meta tag.[^2]
-1. Mainstream or guest performers who don't have an account on FansDB approved network should be omitted.[^3](2)
+1. Uncredited performers can be tagged with an appropriate missing performer meta tag.[^2](2)
+1. Mainstream or guest performers who don't have an account on FansDB approved network should be omitted.[^3](3)
 </div>
 1.  Performers must meet [mandatory performer requirements](/performers/#mandatory-details). 
-2.  This can often happen with professional studios that re-distribute their content on these independent creator platforms without performers having personal accounts. 
+2.  Adding these tags are optional, but very helpful.
+3.  This can often happen with professional studios that re-distribute their content on these independent creator platforms without performers having personal accounts. 
 
 ## Studios
 
