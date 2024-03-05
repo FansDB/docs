@@ -100,7 +100,7 @@ Due to networks not having a set structure, use the following order to decide wh
 Limitations:
 
 1. Do not add animated, drawn, 2D or 3D covers.
-1. Do not cover images that have watermarks from pirate sites.(1)
+1. Do not add cover images that have watermarks from pirate sites.(1)
 </div>
 1.  Blurred, cropped or otherwise hidden watermarks are acceptable.
 
