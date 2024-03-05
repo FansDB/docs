@@ -67,7 +67,7 @@ Limitations:
 
 <div class="annotate" markdown>
 1. In cases where scene description is not in English, add a translated version below it.
-1. Do not add titles that have Unicode characters used for stylistic purpose.(1) Except for emojis.
+1. Do not add details that have Unicode characters used for stylistic purpose.(1) Except for emojis.
 </div>
 1.  This is to prevent various Unicode characters that use weird fonts. Different characters from various alphabets is allowed.
 
