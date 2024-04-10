@@ -10,7 +10,7 @@ To create or submit a new performer, some minimum required information needs to 
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Unique primary name(1)
 - :fontawesome-solid-circle-exclamation: Gender(2)
-- :fontawesome-solid-circle-exclamation: At least 1 live or defuct[^1] link from approved network[^2](3)
+- :fontawesome-solid-circle-exclamation: At least 1 live or defunct[^1] link from approved network[^2](3)
 - :fontawesome-solid-circle-exclamation: Any usernames from submitted network links have to be added as aliases(4)
 </div>
 1.  Using `FirstName LastName` is preferred, but unique username can also be used.
