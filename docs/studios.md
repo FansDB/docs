@@ -10,7 +10,7 @@ To create a new studio, some minimum required information needs to be included.
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Name
 - :fontawesome-solid-circle-exclamation: Network
-- :fontawesome-solid-circle-exclamation: Live or defuct[^1] link from approved network[^2]
+- :fontawesome-solid-circle-exclamation: Live or defunct[^1] link from approved network[^2]
 </div>
 
 ## Names
