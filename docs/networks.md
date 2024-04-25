@@ -31,6 +31,10 @@
 
 AdmireMe is a subscription based site. 
 
+#### [Alua](https://alua.com/){target=_blank}
+
+Alua is a subscription based site. 
+
 #### [APClips](https://apclips.com/){target=_blank}
 
 APClips is a subscription and pay-per-view based site. 
@@ -165,6 +169,14 @@ Slushy is a subscription and pay-per-view based site.
 #### [SWAG](https://swag.live/){target=_blank}
 
 SWAG is a webcam streaming and pay-per-view based site. 
+
+#### [Swame](https://swame.com/){target=_blank}
+
+Swame is a subscription, pay-per-view and webcam streaming based site.
+
+#### [Tempted](https://tempted.com/){target=_blank}
+
+Tempted is a subscription and pay-per-view based site.
 
 #### [UnlockedXX](https://www.unlockedxx.com/){target=_blank}
 
