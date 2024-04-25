@@ -1,6 +1,6 @@
 ---
 title: Approved networks
-date: 2024-05-25
+date: 2024-04-25
 authors: [dogmadragon]
 slug: approved-networks
 categories:
