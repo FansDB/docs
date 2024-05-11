@@ -216,15 +216,19 @@ Reason: Allows posting content prior to age verification.
 
 Reason: Allows posting content prior to age verification.
 
-#### [Pornhub](https://www.pornhub.com){target=_blank}
-
-Reason: Offers clips from professional studios. 
-
 #### [Pornhub Premium](https://www.pornhubpremium.com){target=_blank}
 
 Reason: Offers clips and full scenes from professional studios. 
 
+#### [Pornhub](https://www.pornhub.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
+
 #### [RedGIFs](https://www.redgifs.com){target=_blank}
+
+Reason: Allows posting content prior to age verification.
+
+#### [Tevi](https://tevi.com){target=_blank}
 
 Reason: Allows posting content prior to age verification.
 
@@ -232,11 +236,11 @@ Reason: Allows posting content prior to age verification.
 
 Reason: Offers clips and full scenes from professional studios. 
 
+#### [Vends Ta Culotte](https://www.vends-ta-culotte.com){target=_blank}
+
+Reason: Allows posting content prior to age verification.
+
 #### [xHamster](https://xhamster.com){target=_blank}
-
-Reason: Offers clips from professional studios. 
-
-#### [XNXX](https://www.xnxx.com){target=_blank}
 
 Reason: Offers clips from professional studios. 
 
@@ -244,7 +248,7 @@ Reason: Offers clips from professional studios.
 
 Reason: Offers full scenes from professional studios. 
 
-#### [XVideos](https://www.xvideos.com){target=_blank}
+#### [XNXX](https://www.xnxx.com){target=_blank}
 
 Reason: Offers clips from professional studios. 
 
@@ -252,6 +256,6 @@ Reason: Offers clips from professional studios.
 
 Reason: Offers full scenes from professional studios. 
 
-#### [Vends Ta Culotte](https://www.vends-ta-culotte.com){target=_blank}
+#### [XVideos](https://www.xvideos.com){target=_blank}
 
-Reason: Allows posting content prior to age verification.
+Reason: Offers clips from professional studios. 
