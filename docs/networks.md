@@ -18,6 +18,8 @@ icon: fontawesome/solid/globe
 
 ## Approved networks
 
+Networks that were reviewed by us and met our criteria to be added to FansDB. Content from them is allowed and they can be used to verify performers age for elibility.
+
 #### [+AddFriends](https://addfriends.com/){target=_blank}
 
 +AddFriends is a subscription based site.  
@@ -198,6 +200,8 @@ VISIT-X is a webcam and pay-per-view based site.
 XXXCLUSIVE is a subscription and pay-per-view based site.  
 
 ## Banned networks
+
+Networks that were reviewed by us and haven't met our criteria to be added to FansDB. Content from them is not allowed and they can't be used verify performers age for elibility.
 
 #### [Clips4Sale](https://www.clips4sale.com){target=_blank}
 
