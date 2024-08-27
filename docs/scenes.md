@@ -79,7 +79,7 @@ Limitations:
 <div class="annotate" markdown>
 1. Only links that have a matching site can be added.
 1. Defunct links can be added and must be kept.(1)
-1. Studio links that are different from the selected studio and doesn't match the watermark can be included.
+1. Studio links that are different from the selected studio and doesn't match the watermark can be included if they are from the same network.
 </div>
 1.  Defunct links are kept for prosperity and ability to lookup information from archives.
 

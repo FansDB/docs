@@ -39,7 +39,7 @@ To create a new studio, some minimum required information needs to be included.
 <div class="annotate" markdown>
 1. Only link matching the name of the account should be added.
 1. Defunct link requires additional proof.[^1] 
-1. No not add any additional links.(1)
+1. Do not add any additional links.(1)
 </div>
 1.  No social media, related VIP/non VIP links, links from different networks, etc. 
 
@@ -53,7 +53,7 @@ To create a new studio, some minimum required information needs to be included.
 
 <div class="annotate" markdown>
 1. Images are optional. 
-1. If added, images must contain performer username, name, or some other identifiable text on top of it.(1)
+1. If added, images must contain performer username, name, official brand or some other identifiable text on top of it.(1)
 1. In cases where official logo exists, it should be used and kept. 
 1. User generated, or composed images are welcome.
 1. In cases where the performer has multiple studios, please use unique images for each of them. Except when it's an official logo. 
