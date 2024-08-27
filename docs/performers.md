@@ -1,4 +1,7 @@
-# Performers
+---
+title: Performers
+icon: fontawesome/solid/user
+---
 
 !!! warning
     Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.

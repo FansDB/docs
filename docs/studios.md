@@ -1,4 +1,7 @@
-# Studios
+---
+title: Studios
+icon: fontawesome/solid/video
+---
 
 !!! warning
     Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.

@@ -112,6 +112,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Guidelines:
+    - guidelines/index.md
     - Performers: performers.md
     - Scenes: scenes.md
     - Studios: studios.md

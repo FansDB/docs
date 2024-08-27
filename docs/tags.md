@@ -1,4 +1,7 @@
-# Tags
+---
+title: Tags
+icon: fontawesome/solid/tag
+---
 
 !!! warning
     Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.

@@ -1,4 +1,7 @@
-# Networks
+---
+title: Networks
+icon: fontawesome/solid/globe
+---
 
 ??? info "Suggest a new network"
     The list of networks we allow is ever expanding, but for any of them to be considered they must meet the following requirements: 
