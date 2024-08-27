@@ -12,52 +12,6 @@ FansDB is a user-curated metadata database focused on individual adult content c
 
 To make the most of it you should also install a local adult content organizer called Stash[^2] developed by the same team. Follow their documentation[^3] to get started.
 
-## Guidelines
-
-<div class="grid cards" markdown>
-
--   __Performers__
-
-    ---
-
-    All relevant guidelines related to performers. 
-
-    [:octicons-arrow-right-24: Go to page](/performers)
-
--   __Scenes__
-
-    ---
-
-    All relevant guidelines related to scenes. 
-
-    [:octicons-arrow-right-24: Go to page](/scenes)
-
--   __Studios__
-
-    ---
-
-    All relevant guidelines related to studios. 
-
-    [:octicons-arrow-right-24: Go to page](/studios)
-
--   __Tags__
-
-    ---
-
-    All relevant guidelines related to tags. 
-
-    [:octicons-arrow-right-24: Go to page](/tags)
-
--   __Networks__
-
-    ---
-
-    All relevant guidelines related to networks and sites allowed on FansDB. 
-
-    [:octicons-arrow-right-24: Go to page](/networks)
-
-</div>
-
 ## Accessing FansDB
 
 1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/YfCcSl4CTKvvNyMyAS17YdEy2VRNOLP-zKLZ2kcUdrU/){target=_blank}.
