@@ -114,7 +114,7 @@ Limitations:
 
 ## Duplicates
 
-1. Scenes that are identical and released on the same account and same approved network should be merged into one and submitted with the earliest known metadata.
+1. Scenes that are identical and released on the same account and same approved network need to be merged into one and submitted with the earliest known metadata. Links from those secondary release can be added to the primary scene.
 1. Scenes that are identical and released on a different account, but on the same approved network, should have separate entries.
 1. Scenes that are identical but released on different account and different approved network should have separate entries.
 
