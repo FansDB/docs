@@ -14,7 +14,7 @@ To create or submit a new performer, some minimum required information needs to 
 - :fontawesome-solid-circle-exclamation: Unique primary name(1)
 - :fontawesome-solid-circle-exclamation: Gender(2)
 - :fontawesome-solid-circle-exclamation: At least 1 live or defunct[^1] link from approved network[^2](3)
-- :fontawesome-solid-circle-exclamation: Any usernames from submitted network[^2] links have to be added as aliases(4)
+- :fontawesome-solid-circle-exclamation: Usernames as aliases from submitted approved network[^2] links(4)
 </div>
 1.  Using `FirstName LastName` is preferred, but unique username can also be used.
 2.  In cases where a performer identifies differently in their daily life, use the gender they use for adult content production.
@@ -26,7 +26,7 @@ To create or submit a new performer, some minimum required information needs to 
 <div class="annotate" markdown>
 1. For primary name, `FirstName LastName` is preferred, but unique username can also be used.
 1. Add as many relevant aliases to help match the performer.(1)
-1. Adding legal names or private social media handles is forbidden. Except in cases where the performer is using their legal name in adult content production.
+1. Do not add legal names or private social media handles. Except in cases where the performer is using their legal name in adult content production.
 1. Each name and aliases added need to be properly sourced in the submitted links or comments. 
 </div>
 1.  Relevant aliases can be social media handles, professional porn names or petnames. 
@@ -74,4 +74,4 @@ To create or submit a new performer, some minimum required information needs to 
     - [Sadie](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03){target=_blank} with (audreyandsadie) as disambiguation. 
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
-[^2]: See [Networks](/networks) for full list of approved networks. 
+[^2]: See [Networks](/networks) for a list of approved networks. 
