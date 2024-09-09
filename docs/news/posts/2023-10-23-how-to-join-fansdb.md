@@ -13,7 +13,7 @@ Add a section on how to join FansDB.
 <!-- more -->
 
 1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/akRPLRKcrUvx0ydSwOPGWlnq5bSlpJQpLrTGTrjgTeE/){target=_blank}.
-2. Once you recieve an invite code, register an account at [https://fansdb.xyz/register](https://fansdb.xyz/register){target=_blank}.
+2. Once you recieve an invite code, register an account at [https://fansdb.cc/register](https://fansdb.cc/register){target=_blank}.
 3. Login using your username (not email) and password. 
 4. While logged in click on your username at the top of the menu bar and find an **API key** and **GraphQL Endpoint** sections. 
 5. Go to your local Stash and go to `Settings` > `Metadata Providers` > `Stash-box Endpoints` > `Add`.
