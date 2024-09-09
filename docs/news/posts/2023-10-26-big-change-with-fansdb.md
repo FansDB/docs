@@ -29,5 +29,5 @@ This will lead to increased overlap with StashDB, but their structure of amateur
 
 As of now, these changes remove all content restrictions from all existing approved platforms Fancentro, JustForFans, LoyalFans and ManyVids (except for animated, drawn, 2D and 3D content) and add new platforms CamSoda, Chaturbate, MFC Share.
 
-See [Platforms](/platforms) for full list.  
+See [Platforms](/networks) for full list.  
 Suggest new platforms for consideration [here](https://cryptpad.fr/sheet/#/2/sheet/edit/6DWaSIONfZN4Ty0S2+nEpT6q/){target=_blank}.
