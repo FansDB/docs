@@ -26,14 +26,14 @@ Requirements for platforms to be approved are:
 3. Have to be focused on original content.
 4. Does not offer clips or full scenes from professional porn studios.
 
-You can check [Banned Platforms](/platforms#banned-platforms) to see an example of platforms that don't meet our requirements.  
+You can check [Banned Platforms](/networks#banned-networks) to see an example of platforms that don't meet our requirements.  
 
 ### New Approved Platforms
 
-- [Fanplace](/platforms#fanplace)
-- [FC2](/platforms#fc2)
-- [Frisk](/platforms#frisk)
+- [Fanplace](/networks#fanplace)
+- [FC2](/networks#fc2)
+- [Frisk](/networks#frisk)
 
 
-See [Platforms](/platforms) for full list of approved and banned platforms.  
+See [Platforms](/networks) for full list of approved and banned platforms.  
 Suggest new platforms for consideration [here](https://cryptpad.fr/sheet/#/2/sheet/edit/6DWaSIONfZN4Ty0S2+nEpT6q/){target=_blank}.
