@@ -37,7 +37,7 @@ To create a new studio, some minimum required information needs to be included.
 ## Links
 
 <div class="annotate" markdown>
-1. Only link matching the name of the account should be added.
+1. Only a single link matching the name of the account should be added.
 1. Defunct link requires additional proof.[^1] 
 1. Do not add any additional links.(1)
 </div>
