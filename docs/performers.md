@@ -27,7 +27,8 @@ To create or submit a new performer, some minimum required information needs to 
 1. For primary name, `FirstName LastName` is preferred, but unique username can also be used.
 1. Add as many relevant aliases to help match the performer.(1)
 1. Do not add legal names or private social media handles. Except in cases where the performer is using their legal name in adult content production.
-1. Each name and aliases added need to be properly sourced in the submitted links or comments. 
+1. Each name and aliases added need to be properly sourced in the submitted links or comments.
+1. Name and alias fields are case insensitive, you should not add different capitalization variations.
 </div>
 1.  Relevant aliases can be social media handles, professional porn names or petnames. 
 
