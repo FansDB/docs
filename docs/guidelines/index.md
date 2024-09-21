@@ -6,7 +6,7 @@ hide:
 
 We have a specific structure and guidelines around how we store the metadata on FansDB. Some aspects might seem unnecessary or repetitive, but we do so to keep uniformity across a wide range of different sites.
 
-So please take a moment and read through the guidelines if you plan on contributing. It will same everyone a lot of time and frustration. 
+So please take a moment and read through the guidelines if you plan on contributing. It will save you and us a lot of time and frustration in the future. 
 
 <div class="grid cards" markdown>
 
