@@ -44,6 +44,10 @@ Alua is a subscription based site.
 
 APClips is a subscription and pay-per-view based site. 
 
+#### [ArouseTV](https://arousetv.vip/){target=_blank}
+
+ArouseTV is a pay-per-view based site. 
+
 #### [BestFans](https://www.bestfans.com/){target=_blank}
 
 BestFans is a subscription based site. 
@@ -52,6 +56,10 @@ BestFans is a subscription based site.
 
 BongaCams is a webcam streaming and pay-per-view based site.
 
+#### [Cam4](https://www.cam4.com/){target=_blank}
+
+Cam4 is a webcam streaming and pay-per-view based site.
+
 #### [CamSoda](https://www.camsoda.com){target=_blank}
 
 CamSoda is a webcam streaming and pay-per-view based site. 
@@ -59,6 +67,18 @@ CamSoda is a webcam streaming and pay-per-view based site.
 #### [Chaturbate](https://chaturbate.com){target=_blank}
 
 Chaturbate is a webcam streaming and pay-per-view based site. 
+
+#### [Darkfans](https://darkfans.com){target=_blank}
+
+Darkfans is a webcam streaming, subscription and pay-per-view based site.
+
+#### [dirtyFans](https://www.dirtyfans.com){target=_blank}
+
+dirtyFans is a webcam streaming and subscription based site.
+
+#### [ePlay](https://www.eplay.com){target=_blank}
+
+ePlay is a webcam streaming and subscription based site.
 
 #### [F2F (friends2follow)](https://f2f.com/){target=_blank}
 
@@ -88,12 +108,20 @@ Fansly is a subscription based site.
 
 Fansoda is a subscription based site. 
 
+#### [Fanspicy](https://fanspicy.com/){target=_blank}
+
+Fanspicy is a subscription based site. 
+
 #### [Fantia](https://fantia.jp/){target=_blank}
 
 Fantia is a subscription and pay-per-view based site.
 
 - Only "live-action" content featuring real people is allowed.
 - Animated, drawn, 2D and 3D content is not allowed.
+
+#### [Fanvue](https://www.fanvue.com/){target=_blank}
+
+Fanvue is a subscription and pay-per-view based site.
 
 #### [FC2](https://adult.contents.fc2.com/){target=_blank}
 
@@ -107,9 +135,17 @@ Findrow is a subscription and pay-per-view based site.
 
 Frisk is a subscription and pay-per-view based site.
 
+#### [Glamino](https://www.glamino.com/){target=_blank}
+
+Glamino is a subscription based site.
+
 #### [HoneyDrip](https://honeydrip.com/){target=_blank}
 
 HoneyDrip is a subscription based site.
+
+#### [Just for Fans](https://justforfans.app/){target=_blank}
+
+Just for Fans is a subscription and pay-per-view based site. 
 
 #### [JustForFans](https://justfor.fans/){target=_blank}
 
@@ -163,6 +199,18 @@ Peach is a subscription based site.
 
 Privacy is a subscription based site. 
 
+#### [RevealMe](https://revealme.com/){target=_blank}
+
+RevealMe is a webcam streaming and subscription based site.
+
+#### [Scatbook](https://scatbook.com/){target=_blank}
+
+Scatbook is a webcam streaming, subscription and pay-per-view based site. 
+
+#### [SexyVip](https://sxyvip.com.br/){target=_blank}
+
+SexyVip is a subscription based site. 
+
 #### [Sheer](https://www.sheer.com/){target=_blank}
 
 Sheer is a subscription and pay-per-view based site.  
@@ -170,6 +218,10 @@ Sheer is a subscription and pay-per-view based site.
 #### [Slushy](https://www.slushy.com/){target=_blank}
 
 Slushy is a subscription and pay-per-view based site.  
+
+#### [Southern Charms](https://www.southern-charms.com/){target=_blank}
+
+Southern Charms is a pay-per-view based site.
 
 #### [SWAG](https://swag.live/){target=_blank}
 
@@ -195,9 +247,21 @@ UVIU is a subscription and pay-per-view based site.
 
 VISIT-X is a webcam and pay-per-view based site.  
 
+#### [WetSpace](https://wetspace.com/){target=_blank}
+
+WetSpace is a subscription and pay-per-view based site.   
+
+#### [xHamsterLive](https://xhamsterlive.com/){target=_blank}
+
+xHamsterLive is a webcam streaming and subscription based site.  
+
 #### [XXXCLUSIVE](https://xxxclusive.com/){target=_blank}
 
 XXXCLUSIVE is a subscription and pay-per-view based site.  
+
+#### [XXXfollow](https://www.xxxfollow.com/){target=_blank}
+
+XXXfollow is a short video and subscription based site. 
 
 ## Banned networks
 
