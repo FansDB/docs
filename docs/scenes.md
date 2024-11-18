@@ -122,6 +122,10 @@ Limitations:
 
 1. Promotional trailers that are posted on the studio are allowed, but should be tagged with an appropriate meta tag.[^4]
 
+## Forbidden content
+
+1. Animated, drawn, 2D or 3D scenes.
+
 [^1]: Perceptual hash (pHash) can be generated in [Stash](https://github.com/stashapp/stash){target=_blank} by enabling `Generate perceptual hashes` option in Settings > Tasks. 
 [^2]: These tags are: [`Missing Performer (Female)`](https://fansdb.cc/tags/0da5f9d7-a766-4eef-887c-fece963feec2){target=_blank}, [`Missing Performer (Male)`](https://fansdb.cc/tags/3ce1c8e4-fbdf-460c-87cd-749a8cf40e83){target=_blank}, [`Missing Performer (Trans)`](https://fansdb.cc/tags/e2b45727-e740-4ff2-b112-a6657727f4bf){target=_blank}.
 [^3]: These scenes can be optionally tagged with [`Unverified Performer`](https://fansdb.cc/tags/daa452de-e324-4b0c-811a-4c2e0a277535){target=_blank} tag and mention the performer's name in the scene details. 
