@@ -32,7 +32,7 @@ To create a new studio, some minimum required information needs to be included.
 
 ## Networks
 1. Select an appropriate network to match the one used in the name field.
-1. No not create new networks. 
+1. Do not create new networks. 
 
 ## Links
 
