@@ -21,7 +21,7 @@ There are also several methods for updating content. Some require Stash applicat
 1. Open your local Stash.
 1. Go to :fontawesome-solid-user: **Performers** page.
 1. Open performer profile you want to submit an update to. 
-1. Make sure the performer has StashID assosiated with FansDB.
+1. Make sure the performer has StashID associated with FansDB.
 1. Click **Submit to Stash-Box** and select FansDB as a stash-box endpoint.
 1. Click **Submit Update**.
 1. Now go to [https://fansdb.cc](https://fansdb.cc){target="_blank"} and click on **Drafts**.
@@ -59,7 +59,7 @@ There are also several methods for updating content. Some require Stash applicat
 1. Open your local Stash.
 1. Go to :fontawesome-solid-circle-play: **Scenes** page.
 1. Open scene you want to update. 
-1. Make sure the scene has StashID assosiated with FansDB.
+1. Make sure the scene has StashID associated with FansDB.
 1. Click **Submit to Stash-Box** and select FansDB as a stash-box endpoint.
 1. Click :fontawesome-solid-ellipsis-vertical: and select **Submit to Stash-Box**.
 1. Select FansDB as a stash-box endpoint.
