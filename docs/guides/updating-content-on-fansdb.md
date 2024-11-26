@@ -4,10 +4,10 @@ title: Updating content on FansDB
 
 There are several types of content that can be updated on FansDB. 
 
-- [Performers](/updating-content-on-fansdb/#performers)
-- [Scenes](/updating-content-on-fansdb/#scenes)
-- [Studios](/updating-content-on-fansdb/#studios)
-- [Tags](/updating-content-on-fansdb/#tags)
+- [Performers](/guides/updating-content-on-fansdb/#performers)
+- [Scenes](/guides/updating-content-on-fansdb/#scenes)
+- [Studios](/guides/updating-content-on-fansdb/#studios)
+- [Tags](/guides/updating-content-on-fansdb/#tags)
 
 There are also several methods for updating content. Some require Stash application[^1] others can be done directly from the FansDB site or both.
 
