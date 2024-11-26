@@ -118,6 +118,11 @@ nav:
     - Studios: studios.md
     - Tags: tags.md
     - Networks: networks.md
+  - Guides:
+    - guides/index.md
+    - Scraping scenes via FansDB: guides/scraping-scenes-via-fansdb.md
+    - Submitting content to FansDB: guides/submitting-content-to-fansdb.md
+    - Updating content on FansDB: guides/updating-content-on-fansdb.md
   - News:
     - news/index.md
 

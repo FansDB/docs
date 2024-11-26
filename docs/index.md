@@ -4,8 +4,6 @@ hide:
   - navigation
 ---
 
-# Home
-
 ## What is FansDB?
 
 FansDB is a user-curated metadata database focused on individual adult content creators. It runs on stash-box[^1] which takes advantage of perceptual hashing to make matching your existing files to metadata stored on FansDB super easy, barely an inconvenience. 
@@ -24,4 +22,4 @@ To make the most of it you should also install a local adult content organizer c
 
 [^1]: [stash-box repository](https://github.com/stashapp/stash-box){target=_blank}
 [^2]: [Stash repository](https://github.com/stashapp/stash){target=_blank}
-[^3]: [Stash documentation](https://docs.stashapp.cc/getting-started/){target=_blank}
+[^3]: [Stash installation](https://docs.stashapp.cc/installation){target=_blank}
