@@ -4,10 +4,10 @@ title: Submitting content to FansDB
 
 There are several types of content that can be submitted to FansDB. 
 
-- [Performers](/#performers)
-- [Scenes](/#scenes)
-- [Studios](/#studios)
-- [Tags](/#tags)
+- [Performers](/submitting-content-to-fansdb/#performers)
+- [Scenes](/submitting-content-to-fansdb/#scenes)
+- [Studios](/submitting-content-to-fansdb/#studios)
+- [Tags](/submitting-content-to-fansdb/#tags)
 
 There are also several methods for submitting content. Some require Stash application[^1] others can be done directly from the FansDB site or both.
 
