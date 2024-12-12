@@ -88,4 +88,4 @@ In addition to previous methods, there is also a completely manual way to match 
 
 ---
 
-*Modified from [Scraping scenes via stash-box](https://docs.stashapp.cc/guides/scraping-scenes-via-stash-box/){target="_blank"} linceded under CC-BY-SA-4.0.*
+*Modified from [Scraping scenes via stash-box](https://docs.stashapp.cc/guides/scraping-scenes-via-stash-box/){target="_blank"} lincensed under CC-BY-SA-4.0.*
