@@ -1,7 +1,7 @@
 site_name: FansDB Docs
 site_url: https://docs.fansdb.cc
 site_description: >-
-  FansDB is user-curated metadata database focused on individual adult content creators
+  FansDB is invite-only crowdsourced metadata database focused on independent adult content creators and adult platforms.
 
 repo_name: FansDB/docs
 repo_url: https://github.com/FansDB/docs
@@ -132,6 +132,8 @@ extra:
       link: https://opencollective.com/stashapp
     - icon: fontawesome/brands/github
       link: https://github.com/FansDB
+    - icon: simple/discord
+      link: https://discord.gg/dhJaFAgYAj
 #    - icon: simple/codeberg
 #      link: https://codeberg.org/FansDB
 
