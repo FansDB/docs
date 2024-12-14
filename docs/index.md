@@ -6,9 +6,9 @@ hide:
 
 ## What is FansDB?
 
-FansDB is a user-curated metadata database focused on individual adult content creators. It runs on stash-box[^1] which takes advantage of perceptual hashing to make matching your existing files to metadata stored on FansDB super easy, barely an inconvenience. 
+FansDB is invite-only crowdsourced metadata database focused on independent adult content creators and adult platforms. It runs on stash-box[^1] which uses [perceptual hashing][^2] to make matching your local files to FansDB metadata very easy. It elimates the common struggle of unreliable filenames or files being in different resolution not matching.
 
-To make the most of it you should also install a local adult content organizer called Stash[^2] developed by the same team. Follow their documentation[^3] to get started.
+To take full advantage of it, you just need ot install Stash[^3] porn organizer application. It will be able to connect directly to the FansDB. Follow their documentation[^4] for installation instructions.
 
 ## Accessing FansDB
 
@@ -21,5 +21,6 @@ To make the most of it you should also install a local adult content organizer c
 7. The endpoint is now added and can be used to scrape metadata like with any other scraper. 
 
 [^1]: [stash-box repository](https://github.com/stashapp/stash-box){target=_blank}
-[^2]: [Stash repository](https://github.com/stashapp/stash){target=_blank}
-[^3]: [Stash installation](https://docs.stashapp.cc/installation){target=_blank}
+[^2]: Perceptual hashing allows you to compare similartities between multiple multimedia files by hamming distance. Which means that despite difference in resolution, encoding or basic changes to the source file it can still be grouped together and matched easily. Read more about it [here](https://en.wikipedia.org/wiki/Perceptual_hashing){target=_blank}.
+[^3]: [Stash repository](https://github.com/stashapp/stash){target=_blank}
+[^4]: [Stash installation](https://docs.stashapp.cc/installation){target=_blank}
