@@ -30,6 +30,7 @@ Following networks were added to the approved list:
 ### Updates
 
 [MFC Share](https://fansdb.cc/studios/e6704c31-45b5-4acb-8245-c8d00bd93679) has been split into 2 networks:
+
 - [MFC Share](https://share.myfreecams.com){target=_blank} - [e6704c31-45b5-4acb-8245-c8d00bd93679](https://fansdb.cc/studios/e6704c31-45b5-4acb-8245-c8d00bd93679){target=_blank} - dedicated to pay-per-view content.
 - [MyFreeCams](https://www.myfreecams.com){target=_blank} - [7c9e8c61-23db-4c20-ad3a-db423e1334b2](https://fansdb.cc/studios/7c9e8c61-23db-4c20-ad3a-db423e1334b2){target=_blank} - dedicated to webcam streaming content.
 
