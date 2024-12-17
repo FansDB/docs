@@ -48,6 +48,10 @@ APClips is a subscription and pay-per-view based site.
 
 ArouseTV is a pay-per-view based site. 
 
+#### [Arsmate](https://arsmate.com/){target=_blank}
+
+Arsmate is a subscription based site. 
+
 #### [BestFans](https://www.bestfans.com/){target=_blank}
 
 BestFans is a subscription based site. 
@@ -60,9 +64,17 @@ BongaCams is a webcam streaming and pay-per-view based site.
 
 Cam4 is a webcam streaming and pay-per-view based site.
 
+#### [Camera Prive](https://cameraprive.com/){target=_blank}
+
+Camera Prive is a webcam streaming, subscription and pay-per-view based site.
+
 #### [CamSoda](https://www.camsoda.com){target=_blank}
 
 CamSoda is a webcam streaming and pay-per-view based site. 
+
+#### [CandFans](https://candfans.jp){target=_blank}
+
+CandFans is a subscription based site.
 
 #### [Chaturbate](https://chaturbate.com){target=_blank}
 
@@ -127,6 +139,10 @@ Fanvue is a subscription and pay-per-view based site.
 
 FC2 is a pay-per-view based site.
 
+#### [FikFap](https://fikfap.com/){target=_blank}
+
+FikFap is a short-form adult video site.
+
 #### [Findrow](https://findrow.com/){target=_blank}
 
 Findrow is a subscription and pay-per-view based site.
@@ -155,6 +171,14 @@ JustForFans is a subscription and pay-per-view based site.
 
 JVID is a subscription and pay-per-view based site. 
 
+#### [keendom](https://www.keendom.co/){target=_blank}
+
+keendom is a membership based site.
+
+#### [KinkyClips](https://kinkyclips.com/){target=_blank}
+
+KinkyClips is a pay-per-view based site..
+
 #### [Loverfans](https://www.loverfans.com/){target=_blank}
 
 Loverfans is a subscription and pay-per-view based site. 
@@ -169,7 +193,7 @@ ManyVids is a subscription and pay-per-view based site.
 
 #### [MFC Share](https://share.myfreecams.com){target=_blank}
 
-MFC Share is a webcam streaming and pay-per-view based site. 
+MFC Share is a pay-per-view based site. 
 
 #### [ModelCentro](https://modelcentro.com/){target=_blank}
 
@@ -181,23 +205,43 @@ MyClub is a subscription based site.
 
 #### [MyDirtyHobby](https://www.mydirtyhobby.com/){target=_blank}
 
-MyDirtyHobby is a webcam streaming and pay-per-view based site. 
+MyDirtyHobby is a subscription based site.
+
+#### [myfans](https://myfans.jp/){target=_blank}
+
+myfans is a webcam streaming and pay-per-view based site. 
+
+#### [MyFreeCams](https://www.myfreecams.com/){target=_blank}
+
+MyFreeCams is a webcam streaming based site. 
 
 #### [MYM](https://mym.fans/){target=_blank}
 
 MYM is a subscription based site. 
 
+#### [Okfans](https://okfans.com/){target=_blank}
+
+Okfans is a subscription and pay-per-view based site.
+
 #### [OnlyFans](https://onlyfans.com/){target=_blank}
 
 OnlyFans is a subscription based site. 
 
-#### [Peach](https://legacy.peach.com/){target=_blank}
+#### [Peach (legacy)](https://legacy.peach.com/){target=_blank}
 
 Peach is a subscription based site. 
+
+#### [Playboy Club](https://www.playboy.com/app/){target=_blank}
+
+Playboy Club is a membership based site.
 
 #### [Privacy](https://privacy.com.br/){target=_blank}
 
 Privacy is a subscription based site. 
+
+#### [ReelMe](https://reelme.com/){target=_blank}
+
+ReelMe is a webcam streaming and subscription based site.
 
 #### [RevealMe](https://revealme.com/){target=_blank}
 
@@ -213,7 +257,11 @@ SexyVip is a subscription based site.
 
 #### [Sheer](https://www.sheer.com/){target=_blank}
 
-Sheer is a subscription and pay-per-view based site.  
+Sheer is a subscription and pay-per-view based site.
+
+#### [SinParty](https://sinparty.com/){target=_blank}
+
+SinParty is a webcam streaming, subscription and pay-per-view based site.
 
 #### [Slushy](https://www.slushy.com/){target=_blank}
 
@@ -222,6 +270,21 @@ Slushy is a subscription and pay-per-view based site.
 #### [Southern Charms](https://www.southern-charms.com/){target=_blank}
 
 Southern Charms is a pay-per-view based site.
+
+#### [Stripchat](https://stripchat.com/){target=_blank}
+
+Stripchat is a webcam streaming and pay-per-view based site.
+
+#### [Sugarfans](https://sugarfans.com/){target=_blank}
+
+Sugarfans is a subscription based site
+
+#### [SuicideGirls](https://www.suicidegirls.com/){target=_blank}
+
+SuicideGirls is a membership based site.
+
+- Only SuicideGirls or SuicideGirls Hopefuls are allowed.
+- Members content/links are not allowed!
 
 #### [SWAG](https://swag.live/){target=_blank}
 
@@ -234,6 +297,10 @@ Swame is a subscription, pay-per-view and webcam streaming based site.
 #### [Tempted](https://tempted.com/){target=_blank}
 
 Tempted is a subscription and pay-per-view based site.
+
+#### [Umate](https://umate.me/){target=_blank}
+
+Umate is a subscription based site.
 
 #### [UnlockedXX](https://www.unlockedxx.com/){target=_blank}
 
@@ -271,9 +338,17 @@ Networks that were reviewed by us and haven't met our criteria to be added to Fa
 
 Reason: Primarily focused on clips that don't have set performers and is often produced by the off camera producer.
 
+#### [FansOne](https://fansone.co){target=_blank}
+
+Reason: Allows posting content prior to age verification.
+
 #### [Fanfix](https://www.fanfix.io){target=_blank}
 
 Reason: Doesn't allow adult content. 
+
+#### [FapHouse](https://faphouse.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
 
 #### [IWantClips](https://iwantclips.com){target=_blank}
 
@@ -282,6 +357,10 @@ Reason: Primarily focused on clips that don't have set performers and are regula
 #### [MemberMe](https://memberme.net){target=_blank}
 
 Reason: Allows posting content prior to age verification.
+
+#### [Modelhub](https://www.modelhub.com){target=_blank}
+
+Reason: Offers clips from professional studios. 
 
 #### [Patreon](https://www.patreon.com){target=_blank}
 
@@ -298,6 +377,10 @@ Reason: Offers clips from professional studios.
 #### [RedGIFs](https://www.redgifs.com){target=_blank}
 
 Reason: Allows posting content prior to age verification.
+
+#### [SextPanther](https://www.redgifs.com){target=_blank}
+
+Reason: Focused on 1-on-1 private content.
 
 #### [Tevi](https://tevi.com){target=_blank}
 
