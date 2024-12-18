@@ -66,21 +66,33 @@ To create or submit a new performer, some minimum required information needs to 
 
 <div class="annotate" markdown>
 1. Account is considered a couple account if all the content features:
-    1. All account performers are present,
-    1. Either of them are solo,
+    1. All account performers,
+    1. Either of them solo,
     1. Any combination of them,
-    1. With other people while all couple prefromers are present.(1)
+    1. Them with other people while all account performers are present.(1)
 1. In these cases:
     1. The couple account username should be added as alias on all couple profiles.
-    1. Link of the couple account should to be included on all couple profiles.
+    1. Link of the couple account should be included on all couple profiles.
     1. Username of the couple account should be added to the disambigation field on all couple profiles.
 </div>
-1.  This guideline specifically exlcudes cheating theme accounts where husband/wife performs mostly with other people without other being part of it.
+1.  This guideline specifically excludes cheating theme accounts where husband/wife performs mostly with other people without other being part of it.
 
-??? example
+??? example "Few examples"
+    Sisters:
     
-    - [Audrey](https://fansdb.cc/performers/3c053fe3-7a95-4c8b-9324-ddce6d3d08ae){target=_blank} with (audreyandsadie) as disambiguation. 
-    - [Sadie](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03){target=_blank} with (audreyandsadie) as disambiguation. 
+    - [Audrey \(audreyandsadie\)](https://fansdb.cc/performers/3c053fe3-7a95-4c8b-9324-ddce6d3d08ae){target=_blank}. 
+    - [Sadie \(audreyandsadie\)](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03){target=_blank}.
+
+    Couple:
+    
+    - [Paul Williams \(kaydenwithpaulok\)](https://fansdb.cc/performers/8761e41f-be97-4bc1-bb28-34934cc1b3b7){target=_blank}
+    - [Kayden Sweet \(kaydenwithpaulok\)](https://fansdb.cc/performers/d93f8dea-b2ac-423a-9b78-5a7b7690f3b7){target=_blank}
+
+    Trio: 
+    
+    - [Jammie Dodger \(uk_gym_bois\)](https://fansdb.cc/performers/9895639a-3f8a-4308-a240-75cc32be0411){target=_blank}
+    - [Joe \(uk_gym_bois\)](https://fansdb.cc/performers/bf5a814c-6daf-4651-af94-9f8e360718e8){target=_blank}
+    - [Jordan Stevans \(uk_gym_bois\)](https://fansdb.cc/performers/cc9bcc20-a0f4-4af5-8e72-91d4acc254d2){target=_blank}
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
 [^2]: See [Networks](/networks) for a list of approved networks. 
