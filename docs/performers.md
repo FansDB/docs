@@ -62,13 +62,20 @@ To create or submit a new performer, some minimum required information needs to 
 </div>
 1.  Main purpose of these images is being able to identify the performer. It shouldn't be used as a way to host your favorites.
 
-## Couple accounts
+## Couple type accounts
 
 <div class="annotate" markdown>
-1. An account is considered a couple account if all the content features both performers, or either of them solo, or with other people while both of them are present.
-1. In these cases, the account username should be added as alias and have a link included on both performer profiles.(1)
+1. Account is considered a couple account if all the content features:
+    1. All account performers are present,
+    1. Either of them are solo,
+    1. Any combination of them,
+    1. With other people while all couple prefromers are present.(1)
+1. In these cases:
+    1. The couple account username should be added as alias on all couple profiles.
+    1. Link of the couple account should to be included on all couple profiles.
+    1. Username of the couple account should be added to the disambigation field on all couple profiles.
 </div>
-1.  If you can't find unique name for them, use the username of the account and include unique disambiguation to help with identification.
+1.  This guideline specifically exlcudes cheating theme accounts where husband/wife performs mostly with other people without other being part of it.
 
 ??? example
     
