@@ -13,8 +13,8 @@ Added a new guideline for Performers and Studios under links section. It's worde
 
 > Avoid adding shortened links. If shortened URL redirects to a full link, use that instead.
 
-https://docs.fansdb.cc/performers/#links
-https://docs.fansdb.cc/studios/#links
+- [https://docs.fansdb.cc/performers/#links](https://docs.fansdb.cc/performers/#links)
+- [https://docs.fansdb.cc/studios/#links](https://docs.fansdb.cc/studios/#links)
 
 Reasoning for it is simple:
 
@@ -23,4 +23,4 @@ Reasoning for it is simple:
 
 <!-- more -->
 
-Also, https://docs.fansdb.cc/performers/#couple-type-accounts guideline was also re-worded to make it clearer without changing it's meaning. 
+Also, [https://docs.fansdb.cc/performers/#couple-type-accounts](https://docs.fansdb.cc/performers/#couple-type-accounts) guideline was also re-worded to make it clearer without changing it's meaning. 
