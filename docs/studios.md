@@ -40,6 +40,7 @@ To create a new studio, some minimum required information needs to be included.
 1. Only a single link matching the name of the account should be added.
 1. Defunct link requires additional proof.[^1] 
 1. Do not add any additional links.(1)
+1. Avoid adding shortened links. If shortened URL redirects to a full link, use that instead.
 </div>
 1.  No social media, related VIP/non VIP links, links from different networks, etc. 
 
