@@ -39,6 +39,7 @@ To create or submit a new performer, some minimum required information needs to 
 1. Defunct links can be added and must be kept.(1)
 1. Defunct network links require additional proof.[^1] 
 1. Links that redirect to a different account, should include both links. Except in cases where they redirect to an unrelated performer.
+1. Avoid adding shortened links. If shortened URL redirects to a full link, use that instead.
 </div>
 1.  Defunct links are kept for prosperity and ability to lookup information from archives.
 
