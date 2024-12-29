@@ -12,7 +12,7 @@ To take full advantage of it, you just need ot install Stash[^3] porn organizer 
 
 ## Accessing FansDB
 
-1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/RVkCo6oH3uY53GDaHkbevathvxzgyrxRcijr6cfNNe0/){target=_blank}.
+1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/edit/PrklHIww4NyMrbwRawsftYhr/embed/){target=_blank}.
 2. Once you receive an invitation code, register an account at [https://fansdb.cc/register](https://fansdb.cc/register){target=_blank}.
 3. Login using your username (not email) and password. 
 4. While logged in, click on your username at the top of the menu bar and find an **API key** and **GraphQL Endpoint** sections. 
