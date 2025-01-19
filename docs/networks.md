@@ -332,7 +332,7 @@ XXXfollow is a short video and subscription based site.
 
 ## Banned networks
 
-Networks that were reviewed by us and haven't met our criteria to be added to FansDB. Content from them is not allowed and they can't be used verify performers age for elibility.
+Networks that were reviewed by us and haven't met our criteria to be added to FansDB. Content from them is not allowed and they can't be used to verify performers age for elibility.
 
 #### [Clips4Sale](https://www.clips4sale.com){target=_blank}
 
