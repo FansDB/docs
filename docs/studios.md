@@ -4,11 +4,11 @@ icon: fontawesome/solid/video
 ---
 
 !!! warning
-    Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.
+    Repeat offenders ignoring correction requests will lose EDIT privileges.
 
 ## Mandatory details
 
-To create a new studio, some minimum required information needs to be included. 
+To create a new studio, include the following minimum required information:
 
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Name
@@ -19,18 +19,27 @@ To create a new studio, some minimum required information needs to be included.
 ## Names
 
 <div class="annotate" markdown>
-1. `username (network)` is the required format.(1)
-1. Official capitalization of usernames must be preserved.
-1. Network name capitalization must match the official spelling.
+1. `username (network)` is the required format.
+    - `username` is the part used in the link or after `@`, not the display name.
+    - `@` should not be included as part of the name.
+1. If present, official capitalization of usernames must be preserved.
+1. `(network)` name capitalization must reflect the FansDB network name.
 1. Do not use abbreviations for studio or network names.
 </div>
-1.  - `username` is the part used in the link or after `@`, not the display name. 
-    - `@` should not be included as part of the name.
 
 ??? example
-    See [studios page](https://fansdb.cc/studios){target=_blank} for properly named studios for an example.
+    See [studios page](https://fansdb.cc/studios){target=_blank} for properly named studios as an example.
+
+## Aliases
+
+<div class="annotate" markdown>
+1. Do not add any studio aliases.(1)
+1. Studio aliases are only used in case-by-case situations with express staff approval.
+</div>
+1.  Usernames are not unique across all networks, which can lead to duplicate aliases being created. It's the same reason we attach network to the studio name.
 
 ## Networks
+
 1. Select an appropriate network to match the one used in the name field.
 1. Do not create new networks. 
 
@@ -57,7 +66,7 @@ To create a new studio, some minimum required information needs to be included.
 1. If added, images must contain performer username, name, official brand or some other identifiable text on top of it.(1)
 1. In cases where official logo exists, it should be used and kept. 
 1. User generated, or composed images are welcome.
-1. In cases where the performer has multiple studios, please use unique images for each of them. Except when it's an official logo. 
+1. In cases where the performer has multiple studios, please use unique images for each of them unless it's an official logo. 
 </div>
 1.  Plain performer images are better suited for the performer profile instead. 
 

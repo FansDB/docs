@@ -4,11 +4,11 @@ icon: fontawesome/solid/circle-play
 ---
 
 !!! warning
-    Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.
+    Repeat offenders ignoring correction requests will lose EDIT privileges.
 
 ## Mandatory details
 
-To submit a new scene, some minimum required information needs to be included. 
+To submit a new scene, include the following minimum required information:
 
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Title
@@ -32,11 +32,11 @@ Due to networks not having a set structure, use the following order to decide wh
 
 Limitations:
 
-1. Do not add titles that have Unicode characters used for stylistic purpose.(2) Except for emojis.
+1. Do not add titles that have Unicode characters used for stylistic purpose.[^5](2) Unicode emojis are allowed.
 1. Titles must be contained to a single line.(3) 
 </div>
 1.  In cases where the official title is not in English, a translated version needs to be added to the details section.
-2.  This is to prevent various Unicode characters that use weird fonts. Different characters from various alphabets is allowed.
+2.  This is to prevent various Unicode characters that use weird fonts. Different characters from various alphabets are allowed.
 3.  Some sources can have titles span multiple lines. This is not shown in the `Details` tab, but the fully rendered title is visible in the `Confirm` tab. 
 
 ## Dates
@@ -45,6 +45,11 @@ Limitations:
 1. In cases where the scene was released multiple tiles, the earliest known date should be used.
 1. In cases where date is not known, use placeholder `1970` or `1970-01-01`. 
 1. In cases where date is in conflict due to timezones, use UTC as a baseline. 
+
+### Production dates
+
+1. Real productions dates are extremely rare.
+1. In a few cases where they are available include full or partial date with a source.
 
 ## Performers
 
@@ -70,9 +75,9 @@ Limitations:
 
 <div class="annotate" markdown>
 1. In cases where scene description is not in English, add a translated version below it.
-1. Do not add details that have Unicode characters used for stylistic purpose.(1) Except for emojis.
+1. Do not add details that have Unicode characters used for stylistic purpose.[^5](1) Unicode emojis are allowed.
 </div>
-1.  This is to prevent various Unicode characters that use weird fonts. Different characters from various alphabets is allowed.
+1.  This is to prevent various Unicode characters that use weird fonts. Different characters from various alphabets are allowed.
 
 ## Links
 
@@ -103,19 +108,19 @@ Due to networks not having a set structure, use the following order to decide wh
 Limitations:
 
 1. Do not add animated, drawn, 2D or 3D covers.
-1. Do not add cover images that have watermarks from pirate sites.(1)
+1. Do not add cover images that have 3rd-party watermarks.(1)
 </div>
 1.  Blurred, cropped or otherwise hidden watermarks are acceptable.
 
 ## Content distribution
 
-1. In cases where scenes are distributed on multiple networks or, different accounts must have separate entries for each of them.
-1. In cases where scenes from approved networks are later distributed on unapproved platforms are permissible.  
+1. Scenes that are distributed on multiple networks or from different accounts must have separate entries for each of them.
+1. Scenes from approved networks that are later distributed on unapproved platforms are permissible. 
 
 ## Duplicates
 
 1. Scenes that are identical and released on the same account and same approved network need to be merged into one and submitted with the earliest known metadata. Links from those secondary releases can be added to the primary scene.
-1. Scenes that are identical and released on a different account, but on the same approved network, should have separate entries.
+1. Scenes that are identical but released on a different account within the same approved network should have separate entries.
 1. Scenes that are identical but released on different account and different approved network should have separate entries.
 
 ## Trailers
@@ -130,3 +135,4 @@ Limitations:
 [^2]: These tags are: [`Missing Performer (Female)`](https://fansdb.cc/tags/0da5f9d7-a766-4eef-887c-fece963feec2){target=_blank}, [`Missing Performer (Male)`](https://fansdb.cc/tags/3ce1c8e4-fbdf-460c-87cd-749a8cf40e83){target=_blank}, [`Missing Performer (Trans)`](https://fansdb.cc/tags/e2b45727-e740-4ff2-b112-a6657727f4bf){target=_blank}.
 [^3]: These scenes can be optionally tagged with [`Unverified Performer`](https://fansdb.cc/tags/daa452de-e324-4b0c-811a-4c2e0a277535){target=_blank} tag and mention the performer's name in the scene details. 
 [^4]: Tag: [`Trailer`](https://fansdb.cc/tags/d1afaa79-0b33-4bb1-91d0-3d2b3c4f735b){target=_blank}.
+[^5]: You can use [Unicode normalization tool](https://dencode.com/en/string/unicode-normalization){target=_blank} to fix it. 

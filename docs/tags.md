@@ -4,11 +4,11 @@ icon: fontawesome/solid/tag
 ---
 
 !!! warning
-    Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.
+    Repeat offenders ignoring correction requests will lose EDIT privileges.
 
 ## Mandatory details
 
-To create a new tag, some minimum required information needs to be included. 
+To create a new tag, include the following minimum required information:
 
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Name

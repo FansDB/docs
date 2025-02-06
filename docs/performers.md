@@ -4,11 +4,11 @@ icon: fontawesome/solid/user
 ---
 
 !!! warning
-    Repeat offenders who decide to ignore comments asking for corrections will lose their EDIT privileges.
+    Repeat offenders ignoring correction requests will lose EDIT privileges.
 
 ## Mandatory details
 
-To create or submit a new performer, some minimum required information needs to be included. 
+To create or submit a new performer, include the following minimum required information:
 
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Unique primary name(1)
@@ -25,20 +25,22 @@ To create or submit a new performer, some minimum required information needs to 
 
 <div class="annotate" markdown>
 1. For primary name, `FirstName LastName` is preferred, but unique username can also be used.
-1. Add as many relevant aliases to help match the performer.(1)
-1. Do not add legal names or private social media handles. Except in cases where the performer is using their legal name in adult content production.
-1. Each name and aliases added need to be properly sourced in the submitted links or comments.
-1. Name and alias fields are case insensitive, you should not add different capitalization variations.
+1. Include all mandatory aliases from submitted network links.
+1. Consider adding other relevant aliases that can help in finding the performer.(1)
+1. Each name and alias added must be properly sourced via submitted links or in the comments.(2)
+1. Do not add legal names or private social media handles. Except in cases where the performer is using their legal name in adult content production. Note that in your submission comment.
+1. Name and alias fields are case-insensitive; do not add different capitalization variations.
 </div>
 1.  Relevant aliases can be social media handles, professional porn names or petnames. 
+2.  If you can't source the information, exclude it from your submission.
 
 ## Links
 
 <div class="annotate" markdown>
 1. Only links that have a matching site can be added.
-1. Defunct links can be added and must be kept.(1)
-1. Defunct network links require additional proof.[^1] 
-1. Links that redirect to a different account, should include both links. Except in cases where they redirect to an unrelated performer.
+1. Defunct links can be added and should not be removed.(1)
+1. Defunct links from approved networks require additional proof.[^1] 
+1. Links that redirect to a different account, should include both links. Except in rare cases where they redirect to an unrelated performer.
 1. Avoid adding shortened links. If shortened URL redirects to a full link, use that instead.
 </div>
 1.  Defunct links are kept for prosperity and ability to lookup information from archives.
@@ -52,48 +54,41 @@ To create or submit a new performer, some minimum required information needs to 
 ## Images
 
 <div class="annotate" markdown>
-1. Images main purpose is being able to identify the performer.
+1. The main purpose of images is to identify the performer.
 1. Images must have only the performer and no other people.
-1. Try using a variety of different image shot types. From portrait shots to full body shots.(1) 
-1. Do not add images where performer face is not visible. Except in cases where no pictures with performer face exists. 
-1. Do not add images that have filters applied to them.
+1. Try using a variety of different image shot types, ranging from portrait shots to full body shots.(1) 
+1. Do not add images where performer face is not visible, except in cases where no pictures with the performer's face exist. 
+1. Do not add images that have artificial filters applied to them.
 1. Do not add animated images.
 1. Do not add image compilations/collages.
-1. Do not add images that have watermarks from unofficial sites.
+1. Do not add images that have 3rd-party watermarks.
 </div>
-1.  Main purpose of these images is being able to identify the performer. It shouldn't be used as a way to host your favorites.
+1.  The main purpose of these images is to identify the performer. It shouldn't be used as a way to host your favorites.
 
 ## Couple type accounts
 
 <div class="annotate" markdown>
-1. Account is considered a couple account if all the content features:
-    1. All account performers,
-    1. Either of them solo,
-    1. Any combination of them,
-    1. Them with other people while all account performers are present.(1)
-1. In these cases:
-    1. The couple account username should be added as alias on all couple profiles.
-    1. Link of the couple account should be included on all couple profiles.
-    1. Username of the couple account should be added to the disambigation field on all couple profiles.
+
+!!! info 
+    We only allow individual profiles for each performer. But couple accounts can be used to verify multiple performers in limited circumstances.
+
+    Due to the imprecise nature of these accounts, it should only be done by experienced editors.
+
+    The submission must provide all relevant details to be able to qualify the account or it will be rejected.
+
+Account can qualify based on following criteria:
+
+1. Performers are featured together in the majority of the content.
+1. Performers are featured solo in less than half the content.
+1. One of performers is featured with others in less than half the content.
+1. Performers are in a legal marital relationship and performed at least once together.
+
+If they qualify:
+
+1. Add account username as an alias to all qualifiying profiles.
+1. Add network link of the account to all qualifiying profiles.
+1. Add account username to the disambiguation to all qualifiying profiles in the following format: `username, relationship-type` where relationship-type can be `sister`, `brother`, `mother`, `father`, `wife`, `husband`, `partner`.
 </div>
-1.  This guideline specifically excludes cheating theme accounts where husband/wife performs mostly with other people without other being part of it.
-
-??? example "Few examples"
-    Sisters:
-    
-    - [Audrey \(audreyandsadie\)](https://fansdb.cc/performers/3c053fe3-7a95-4c8b-9324-ddce6d3d08ae){target=_blank}
-    - [Sadie \(audreyandsadie\)](https://fansdb.cc/performers/bc575d7a-0d11-4752-83db-673383296d03){target=_blank}
-
-    Couple:
-    
-    - [Paul Williams \(kaydenwithpaulok\)](https://fansdb.cc/performers/8761e41f-be97-4bc1-bb28-34934cc1b3b7){target=_blank}
-    - [Kayden Sweet \(kaydenwithpaulok\)](https://fansdb.cc/performers/d93f8dea-b2ac-423a-9b78-5a7b7690f3b7){target=_blank}
-
-    Trio: 
-    
-    - [Jammie Dodger \(uk_gym_bois\)](https://fansdb.cc/performers/9895639a-3f8a-4308-a240-75cc32be0411){target=_blank}
-    - [Joe \(uk_gym_bois\)](https://fansdb.cc/performers/bf5a814c-6daf-4651-af94-9f8e360718e8){target=_blank}
-    - [Jordan Stevans \(uk_gym_bois\)](https://fansdb.cc/performers/cc9bcc20-a0f4-4af5-8e72-91d4acc254d2){target=_blank}
 
 [^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
 [^2]: See [Networks](/networks) for a list of approved networks. 
