@@ -46,7 +46,7 @@ So please take a moment and read through the guidelines if you plan on contribut
 
     ---
 
-    All relevant guidelines related to networks and sites allowed on FansDB. 
+    All relevant guidelines related to network sites allowed on FansDB. 
 
     [:octicons-arrow-right-24: Go to page](/networks)
 
