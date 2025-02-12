@@ -80,7 +80,7 @@ Account can qualify based on following criteria:
 
 1. Performers are featured together in the majority of the content.
 1. Performers are featured solo in less than half the content.
-1. One of performers is featured with others in less than half the content.
+1. One of the performers is featured with others in less than half the content.
 1. Performers are in a legal marital relationship and performed at least once together.
 
 If they qualify:
