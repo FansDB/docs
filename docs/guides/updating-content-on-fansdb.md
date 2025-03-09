@@ -30,11 +30,6 @@ There are also several methods for updating content. Some require Stash applicat
 
     !!! info
         The data between Stash and FansDB has to be translated due to different database structure, so not all data fields are supported to be automatically translated and pre-filled.
-    
-    ??? tip "Add all unmatched URLs"
-        You can add unmatched URLs with a single click by using a userscript. With the userscript installed you will see **add urls** button next the unmatched URLs section to add all approved matching links automatically. You might need to refresh the page to see the button. Huge time saver.
-
-        [Userscript repository](https://github.com/stashapp/CommunityScripts/tree/main/userscripts/FansDB_Submission_Helper){target="_blank"} | [Click to install](https://raw.githubusercontent.com/stashapp/CommunityScripts/main/userscripts/FansDB_Submission_Helper/fansdb_submission_helper.user.js){target="_blank"}
 
 1. Fill in the the unmatched data.
 1. Go to **Confirm** tab and leave a comment that explains where your details are coming from. 
