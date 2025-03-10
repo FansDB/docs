@@ -21,18 +21,19 @@ To create or submit a new performer, include the following minimum required info
 3.  We rely on these networks for performer age verification. 
 4.  Helps avoid duplicate submissions and improves discoverability. 
 
-## Naming structure
+## Primary name & aliases
 
 <div class="annotate" markdown>
-1. For primary name, `FirstName LastName` is preferred, but unique username can also be used.
-1. Include all mandatory aliases from submitted network links.
-1. Consider adding other relevant aliases that can help in finding the performer.(1)
-1. Each name and alias added must be properly sourced via submitted links or in the comments.(2)
-1. Do not add legal names or private social media handles. Except in cases where the performer is using their legal name in adult content production. Note that in your submission comment.
+1. Use `FirstName LastName` as the primary name, or fall back to the unique username from the approved network.
+1. Include usernames as aliases of added performer accounts from approved networks.
+1. Names from professional adult credits can be added as aliases.
+1. Social media accounts can be used to verify other names associated with the adult work. Must be properly documented in the comments.
+1. Do not add social media or other non-network usernames as aliases.
+1. Do not add legal names unless they were used as an adult credit.
+1. Properly source each name and alias. Either by submitted links or in the comments.(1)
 1. Name and alias fields are case-insensitive; do not add different capitalization variations.
 </div>
-1.  Relevant aliases can be social media handles, professional porn names or petnames. 
-2.  If you can't source the information, exclude it from your submission.
+1.  If you can't source the information, exclude it from your submission.
 
 ## Links
 
