@@ -8,13 +8,11 @@ categories:
 comments: true
 ---
 
-In light of the recent addition of link lookup support in stash-box, as well as a recent poll on our Discord server and the subsequent discussion, we are implementing a significant change to our guidelines.
+In light of the recent poll on our Discord server and the subsequent discussion, we are implementing a significant change to our guidelines.
 
 Previously, we encouraged and permitted the addition of any relevant aliases to a performer's profile. While this approach was beneficial for performer discovery, it incurred a substantial time cost while offering limited value to most users.
 
-As a result, we are revising the naming structure guidelines to limit aliases to usernames from approved networks or professional adult credits.
-
-The updated guidelines are as follows:
+As a result, we are revising the naming structure guidelines to limit aliases to usernames from approved networks or professional adult credits. The updated guidelines are as follows:
 
 ## Primary name & aliases
 
