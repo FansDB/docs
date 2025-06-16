@@ -42,7 +42,7 @@ Limitations:
 ## Dates
 
 1. Valid date formats are `YYYY-MM-DD`, `YYYY-MM` or `YYYY`.
-1. In cases where the scene was released multiple tiles, the earliest known date should be used.
+1. In cases where the scene was released multiple times, the earliest known date should be used.
 1. In cases where date is not known, use placeholder `1970` or `1970-01-01`. 
 1. In cases where date is in conflict due to timezones, use UTC as a baseline. 
 
