@@ -25,7 +25,7 @@ To create or submit a new performer, include the following minimum required info
 
 <div class="annotate" markdown>
 1. Use `FirstName LastName` as the primary name, or fall back to the unique username from the approved network.
-1. Include usernames as aliases of added performer accounts from approved networks.
+1. Include usernames as aliases of added performer accounts from approved networks[^2].
 1. Names from professional adult credits can be added as aliases.
 1. Social media accounts can be used to verify other names associated with the adult work. Must be properly documented in the comments.
 1. Do not add social media or other non-network usernames as aliases.
