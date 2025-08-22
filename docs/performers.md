@@ -44,7 +44,7 @@ To create or submit a new performer, include the following minimum required info
 1. Links that redirect to a different account, should include both links. Except in rare cases where they redirect to an unrelated performer.
 1. Avoid adding shortened links. If shortened URL redirects to a full link, use that instead.
 </div>
-1.  Defunct links are kept for prosperity and ability to lookup information from archives.
+1.  Defunct links are kept for posterity and the ability to lookup information from archives.
 
 !!! tip
     When adding links, make sure to click `Add` when adding links manually. 
