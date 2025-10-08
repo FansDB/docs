@@ -13,8 +13,8 @@ To create or submit a new performer, include the following minimum required info
 <div class="annotate" markdown>
 - :fontawesome-solid-circle-exclamation: Unique primary name(1)
 - :fontawesome-solid-circle-exclamation: Gender(2)
-- :fontawesome-solid-circle-exclamation: At least 1 live or defunct[^1] link from approved network[^2](3)
-- :fontawesome-solid-circle-exclamation: Usernames as aliases from submitted approved network[^2] links(4)
+- :fontawesome-solid-circle-exclamation: At least 1 live or defunct link from approved network[^1][^2](3)
+- :fontawesome-solid-circle-exclamation: Usernames as aliases from submitted approved network links[^2](4)
 </div>
 1.  Using `FirstName LastName` is preferred, but unique username can also be used.
 2.  In cases where a performer identifies differently in their daily life, use the gender they use for adult content production.
@@ -25,7 +25,7 @@ To create or submit a new performer, include the following minimum required info
 
 <div class="annotate" markdown>
 1. Use `FirstName LastName` as the primary name, or fall back to the unique username from the approved network.
-1. Include usernames as aliases of added performer accounts from approved networks[^2].
+1. Include usernames as aliases of added performer accounts from approved networks.[^2]
 1. Names from professional adult credits can be added as aliases.
 1. Social media accounts can be used to verify other names associated with the adult work. Must be properly documented in the comments.
 1. Do not add social media or other non-network usernames as aliases.
