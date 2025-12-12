@@ -33,8 +33,8 @@ The documentation site was offically launched with the initial guidelines.
 5. Titles  
 5.1. Titles, though not mandatory, are preferred.  
 5.2. Use the official title when available.  
-5.3. In the absence of an official title user made title that reflect the content can be used.  
-5.4. If no official or user made title is used: you can use use a combination of date + username or just the username if the date is unavailable.  
+5.3. In the absence of an official title, a user-made title that reflects the content can be used.  
+5.4. If no official or user-made title is used: you can use a combination of date + username or just the username if the date is unavailable.  
 
 6. Dates
 6.1. While not mandatory, dates are preffered.  

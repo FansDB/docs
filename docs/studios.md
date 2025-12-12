@@ -75,5 +75,5 @@ To create a new studio, include the following minimum required information:
 1. Performers that use multiple networks or accounts must have a separate studio for each of them.
 1. Removed or renamed accounts must also have a separate studio.
 
-[^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
+[^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, a social media link to a post or profile where the performer themselves promote their account, or a working archived copy of their account page (e.g. archive.org).
 [^2]: See [Networks](/networks) for full list of approved networks. 

@@ -58,7 +58,7 @@ To create or submit a new performer, include the following minimum required info
 1. The main purpose of images is to identify the performer.
 1. Images must have only the performer and no other people.
 1. Try using a variety of different image shot types, ranging from portrait shots to full body shots.(1) 
-1. Do not add images where performer face is not visible, except in cases where no pictures with the performer's face exist. 
+1. Do not add images where the performer's face is not visible, except in cases where no pictures with the performer's face exist. 
 1. Do not add images that have artificial filters applied to them.
 1. Do not add animated images.
 1. Do not add image compilations/collages.
@@ -86,10 +86,10 @@ Account can qualify based on following criteria:
 
 If they qualify:
 
-1. Add account username as an alias to all qualifiying profiles.
-1. Add network link of the account to all qualifiying profiles.
-1. Add account username to the disambiguation to all qualifiying profiles in the following format: `username, relationship-type` where relationship-type can be `sister`, `brother`, `mother`, `father`, `wife`, `husband`, `partner`.
+1. Add account username as an alias to all qualifying profiles.
+1. Add network link of the account to all qualifying profiles.
+1. Add account username to the disambiguation to all qualifying profiles in the following format: `username, relationship-type` where relationship-type can be `sister`, `brother`, `mother`, `father`, `wife`, `husband`, `partner`.
 </div>
 
-[^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, social media link to a post or profile where the performer themselves promoting their account or a working archived copies of their account page (e.g. archive.org).
+[^1]: Defunct links can be added, but they require additional proof. Such proof can be a screenshot of watermarked content, a social media link to a post or profile where the performer themselves promote their account, or a working archived copy of their account page (e.g. archive.org).
 [^2]: See [Networks](/networks) for a list of approved networks. 

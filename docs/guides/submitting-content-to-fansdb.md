@@ -30,7 +30,7 @@ There are also several methods for submitting content. Some require Stash applic
     !!! info
         The data between Stash and FansDB has to be translated due to different database structure, so not all data fields are supported to be automatically translated and pre-filled.
 
-1. Fill in the the unmatched data.
+1. Fill in the unmatched data.
 1. Go to **Confirm** tab and leave a comment that explains where your details are coming from. 
 1. Click **Submit Edit**.
 
@@ -69,7 +69,7 @@ Generate task and its options are applied when you want to generate additional t
 1. Now go to [https://fansdb.cc](https://fansdb.cc){target="_blank"} and click on **Drafts**.
 1. Click on **Scene addition: <scene name\>** link.
 1. Check over the pre-filled details and look if there is any unmatched data.
-1. Fill in the the unmatched data.
+1. Fill in the unmatched data.
 1. Go to **Confirm** tab and leave a comment that explains where your details are coming from. 
 1. Click **Submit Edit**.
 
@@ -100,7 +100,7 @@ Generate task and its options are applied when you want to generate additional t
 
 1. Go to [https://fansdb.cc](https://fansdb.cc){target="_blank"} and click on **Tags**.
 1. Look for **Create** button and click it.
-1. Fill in all the details according the the naming structure of FansDB.
+1. Fill in all the details according to the naming structure of FansDB.
 1. Leave a comment that explains where your details are coming from.
 1. Click **Submit Edit**.
 

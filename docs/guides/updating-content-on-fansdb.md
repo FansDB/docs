@@ -31,7 +31,7 @@ There are also several methods for updating content. Some require Stash applicat
     !!! info
         The data between Stash and FansDB has to be translated due to different database structure, so not all data fields are supported to be automatically translated and pre-filled.
 
-1. Fill in the the unmatched data.
+1. Fill in the unmatched data.
 1. Go to **Confirm** tab and leave a comment that explains where your details are coming from. 
 1. Click **Submit Edit**.
 

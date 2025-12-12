@@ -18,7 +18,7 @@ To create a new tag, include the following minimum required information:
 
 ## Descriptions
 
-1. Description should be narrow in scope. 
+1. The description should be narrow in scope. 
 
 ## Aliases
 

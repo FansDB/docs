@@ -19,7 +19,7 @@ There are several ways to scrape scenes from FansDB via Stash. From automatic to
 
 Scan task and its options are applied when the content is being added to the database the first time.
 
-Generate task and its options are applied when you want to generate additional things for content that is already in your database.
+Generate task and its options are applied when you want to generate additional things for content that are already in your database.
 
 ### Configure FansDB endpoint
 
@@ -45,7 +45,7 @@ Recommended to people that value accuracy the most. It can automatically go thro
             Organized flag has a technical purpose in addition to being able to be used in a filter. All objects marked as organized will be ignored by automatic tasks like Identify and Auto Tag.
 
 1. Click on **Scrape All** and look through the results. Add missing objects and click **Save**.
-    1. If you got returned **No results found**, you can try using query method. You can enter title, performer, release date, or studio and click **Search**. Keep in mind that sometimes fewer details, are better.
+    1. If you got returned **No results found**, you can try using query method. You can enter title, performer, release date, or studio and click **Search**. Keep in mind that sometimes fewer details are better.
     1. If you know the scene exists on FansDB instance, but it wasn't found, you can input the exact StashID in the Query field, click **Search** and it will return that exact scene.
 1. For scenes that you clicked **Save** on, you can submit your file fingerprints (hashes) back to the instance to help improve the accuracy. Scroll to the top and click **Submit x fingerprints**.
 
@@ -54,7 +54,7 @@ Recommended to people that value accuracy the most. It can automatically go thro
 
 ## Identify
 
-For people that want fully automatic option and don't mind some potential inaccuracies. The task will automatically go through all scenes and match them based on perceptual hash. You can also create all missing objects automatically. No manual verification is possible.
+For people that want a fully automatic option and don't mind some potential inaccuracies. The task will automatically go through all scenes and match them based on perceptual hash. You can also create all missing objects automatically. No manual verification is possible.
 
 !!! warning
     Task is irreversible, so it's a good idea to [make a backup](https://docs.stashapp.cc/guides/backup-and-restore-database/){target="_blank"} before running it.
@@ -65,7 +65,7 @@ For people that want fully automatic option and don't mind some potential inaccu
 1. Under **Sources** select FansDB instance to match against.
 
     !!! info
-        Identify task iterates through sources until it finds a match, once it finds a match, it will ignore all other sources for that scene.
+        Identify task iterates through sources until it finds a match; once it finds a match, it will ignore all other sources for that scene.
 
 1. Configure default options that will apply to all sources (they can be overwritten for individual sources by clicking :fontawesome-solid-gear: next to each source).
     1. You can disable **Show male performers** if you don't want them to be scraped for you locally.
@@ -85,9 +85,9 @@ In addition to previous methods, there is also a completely manual way to match 
 1. Go to a scene you want to match.
 1. Click on the **Edit** tab.
 1. Click **Scrape with...** and select FansDB instance to match against.
-1. Check the return results, create missing objects and click **Apply**.
+1. Check the returned results, create missing objects and click **Apply**.
 1. Click **Save**.
 
 ---
 
-*Modified from [Scraping scenes via stash-box](https://docs.stashapp.cc/guides/scraping-scenes-via-stash-box/){target="_blank"} lincensed under CC-BY-SA-4.0.*
+*Modified from [Scraping scenes via stash-box](https://docs.stashapp.cc/guides/scraping-scenes-via-stash-box/){target="_blank"} licensed under CC-BY-SA-4.0.*

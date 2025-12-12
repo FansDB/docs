@@ -86,7 +86,7 @@ Limitations:
 1. Defunct links can be added and must be kept.(1)
 1. Studio links that are different from the selected studio and doesn't match the watermark can be included if they are from the same network.
 </div>
-1.  Defunct links are kept for prosperity and ability to lookup information from archives.
+1.  Defunct links are kept for posterity and the ability to look up information from archives.
 
 !!! tip
     When adding links, make sure to click `Add` when adding links manually. 

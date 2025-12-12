@@ -6,7 +6,7 @@ hide:
 
 ## What is FansDB?
 
-FansDB is invite-only crowdsourced metadata database focused on independent adult creators from adult creator platforms. 
+FansDB is an invite-only crowdsourced metadata database focused on independent adult creators from adult creator platforms. 
 
 - We store information about performers, including their aliases, physical attributes, and career history. 
 - We catalog metadata on scenes from approved platforms, detailing scene titles, descriptions, release dates, and participating performers. 
@@ -27,6 +27,6 @@ To take full advantage of it, you just need to install Stash[^3] porn organizer 
 7. The endpoint is now added and can be used to scrape metadata like with any other scraper. 
 
 [^1]: [https://github.com/stashapp/stash-box](https://github.com/stashapp/stash-box){target=_blank}
-[^2]: Perceptual hashing allows you to compare similartities between multiple multimedia files by hamming distance. Which means that despite difference in resolution, encoding or basic changes to the source file it can still be grouped together and matched easily. Read more about it [here](https://en.wikipedia.org/wiki/Perceptual_hashing){target=_blank}.
+[^2]: Perceptual hashing allows you to compare similarities between multiple multimedia files by hamming distance. Which means that despite difference in resolution, encoding or basic changes to the source file it can still be grouped together and matched easily. Read more about it [here](https://en.wikipedia.org/wiki/Perceptual_hashing){target=_blank}.
 [^3]: [https://github.com/stashapp/stash](https://github.com/stashapp/stash){target=_blank}
 [^4]: [https://docs.stashapp.cc/installation](https://docs.stashapp.cc/installation){target=_blank}

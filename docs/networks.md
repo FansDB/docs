@@ -10,7 +10,7 @@ icon: fontawesome/solid/globe
     - [x] Have to be individual creator focused. 
         * The creator is the primary producer and participant in the content. 
         * Not produced by a professional porn studio. 
-        * Features real life people, not drawn, animated, rendered or generated. 
+        * Features real-life people, not drawn, animated, rendered or generated. 
     - [x] Have to be focused on original content.
     - [x] Does not offer clips or full scenes from professional porn studios.
 
@@ -18,7 +18,7 @@ icon: fontawesome/solid/globe
 
 ## Approved networks
 
-Networks that were reviewed by us and met our criteria to be added to FansDB. Content from them is allowed and they can be used to verify performers age for elibility.
+Networks that were reviewed by us and met our criteria to be added to FansDB. Content from them is allowed and they can be used to verify performers age for eligibility.
 
 #### [+AddFriends](https://addfriends.com/){target=_blank}
 
@@ -173,11 +173,11 @@ JVID is a subscription and pay-per-view based site.
 
 #### [keendom](https://www.keendom.co/){target=_blank}
 
-keendom is a membership based site.
+keendom is a membership-based site.
 
 #### [KinkyClips](https://kinkyclips.com/){target=_blank}
 
-KinkyClips is a pay-per-view based site..
+KinkyClips is a pay-per-view based site.
 
 #### [Loverfans](https://www.loverfans.com/){target=_blank}
 
@@ -233,7 +233,7 @@ Peach is a subscription based site.
 
 #### [Playboy Club](https://www.playboy.com/app/){target=_blank}
 
-Playboy Club is a membership based site.
+Playboy Club is a membership-based site.
 
 #### [Privacy](https://privacy.com.br/){target=_blank}
 
@@ -281,7 +281,7 @@ Sugarfans is a subscription based site
 
 #### [SuicideGirls](https://www.suicidegirls.com/){target=_blank}
 
-SuicideGirls is a membership based site.
+SuicideGirls is a membership-based site.
 
 - Only SuicideGirls or SuicideGirls Hopefuls are allowed.
 - Members content/links are not allowed!
@@ -332,7 +332,7 @@ XXXfollow is a short video and subscription based site.
 
 ## Banned networks
 
-Networks that were reviewed by us and haven't met our criteria to be added to FansDB. Content from them is not allowed and they can't be used to verify performers age for elibility.
+Networks that were reviewed by us and haven't met our criteria to be added to FansDB. Content from them is not allowed and they can't be used to verify performers age for eligibility.
 
 #### [Clips4Sale](https://www.clips4sale.com){target=_blank}
 
