@@ -31,6 +31,9 @@ theme:
     - navigation.indexes
     - content.tooltips
     - content.tabs.link
+    - navigation.path
+    - content.footnote.tooltips
+
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -77,6 +80,9 @@ plugins:
       repository: FansDB/docs
       branch: main
       enabled: !ENV [CI, false]
+      exclude_committers:
+        - github-actions[bot]
+        - web-flow
   - glightbox
   - social:
       enabled: !ENV [CI, false]
