@@ -76,13 +76,6 @@ plugins:
       comments_path: "#__comments"
   - git-revision-date-localized:
       enable_creation_date: true
-  - git-committers:
-      repository: FansDB/docs
-      branch: main
-      enabled: !ENV [CI, false]
-      exclude_committers:
-        - github-actions[bot]
-        - web-flow
   - glightbox
   - social:
       enabled: !ENV [CI, false]
