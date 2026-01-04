@@ -32,6 +32,5 @@ jobs:
                mkdocs-git-revision-date-localized-plugin \
                mkdocs-git-committers-plugin-2 \
                mkdocs-glightbox \
-               mkdocs-material[imaging] \
-               mkdocs-redirects
+               mkdocs-material[imaging]
       - run: mkdocs gh-deploy --force
