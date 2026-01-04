@@ -3,4 +3,4 @@ hide:
   - toc
 ---
 
-# News
+# Updates

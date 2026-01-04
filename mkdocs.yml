@@ -57,7 +57,7 @@ theme:
 plugins:
   - search
   - blog:
-        blog_dir: news
+        blog_dir: updates
         post_date_format: yyyy-MM-dd
         post_url_date_format: yyyy/MM/dd
         authors: true
@@ -67,7 +67,7 @@ plugins:
         post_readtime: true
         post_readtime_words_per_minute: 265
   - rss:
-      match_path: news/posts/.* 
+      match_path: updates/posts/.* 
       date_from_meta:
         as_creation: date
       categories:
@@ -79,6 +79,25 @@ plugins:
   - glightbox
   - social:
       enabled: !ENV [CI, false]
+  - redirects:
+      redirect_maps:
+        'news/posts/2023-10-01-launch-of-fansdb-docs.md': 'updates/posts/2023-10-01-launch-of-fansdb-docs.md'
+        'news/posts/2023-10-23-how-to-join-fansdb.md': 'updates/posts/2023-10-23-how-to-join-fansdb.md'
+        'news/posts/2023-10-26-big-change-with-fansdb.md': 'updates/posts/2023-10-26-big-change-with-fansdb.md'
+        'news/posts/2023-11-17-new-domain.md': 'updates/posts/2023-11-17-new-domain.md'
+        'news/posts/2024-01-20-FansDB-scope-expansion-new-platforms.md': 'updates/posts/2024-01-20-FansDB-scope-expansion-new-platforms.md'
+        'news/posts/2024-02-06-docs-site-revamp.md': 'updates/posts/2024-02-06-docs-site-revamp.md'
+        'news/posts/2024-02-22-guidelines-structure-update.md': 'updates/posts/2024-02-22-guidelines-structure-update.md'
+        'news/posts/2024-02-23-approved-networks.md': 'updates/posts/2024-02-23-approved-networks.md'
+        'news/posts/2024-04-25-approved-networks.md': 'updates/posts/2024-04-25-approved-networks.md'
+        'news/posts/2024-10-19-approved-networks.md': 'updates/posts/2024-10-19-approved-networks.md'
+        'news/posts/2024-12-17-approved-networks.md': 'updates/posts/2024-12-17-approved-networks.md'
+        'news/posts/2024-12-19-link-guideline.md': 'updates/posts/2024-12-19-link-guideline.md'
+        'news/posts/2025-01-19-new-stash-box-version.md': 'updates/posts/2025-01-19-new-stash-box-version.md'
+        'news/posts/2025-02-05-new-stash-box-version.md': 'updates/posts/2025-02-05-new-stash-box-version.md'
+        'news/posts/2025-02-06-guidelines-update.md': 'updates/posts/2025-02-06-guidelines-update.md'
+        'news/posts/2025-03-10-performer-alias-guideline-change.md': 'updates/posts/2025-03-10-performer-alias-guideline-change.md'
+
 
 watch:
   - includes
