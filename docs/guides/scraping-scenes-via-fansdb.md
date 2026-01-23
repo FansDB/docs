@@ -32,7 +32,7 @@ Generate task and its options are applied when you want to generate additional t
 Recommended to people that value accuracy the most. It can automatically go through scenes and match them based on perceptual hash, but object creation and verification is left to you and nothing is saved until you click **Save**.
 
 1. Open :fontawesome-solid-video: **Scenes** page.
-1. Click on :fontawesome-solid-table-cells-large::fontawesome-solid-chevron-down: display mode selector in the toolbar.
+1. Go to :fontawesome-solid-tags: **Tagger**, which is accessible from the toolbar.
 1. Set it to :fontawesome-solid-tags: **Tagger**.
 1. Under **Source** select FansDB instance.
 1. Opposite the **Source** click on the :fontawesome-solid-gear: to open configuration.
