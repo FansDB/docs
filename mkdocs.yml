@@ -7,7 +7,7 @@ repo_name: FansDB/docs
 repo_url: https://github.com/FansDB/docs
 edit_uri: edit/main/docs/
 
-copyright: Copyright &copy; 2023 - 2024 FansDB
+copyright: Copyright &copy; 2023 - 2026 FansDB
 
 theme:
   name: material
@@ -137,4 +137,5 @@ extra:
 #      link: https://codeberg.org/FansDB
 
 extra_css:
+
   - stylesheets/extra.css
