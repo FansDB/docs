@@ -18,7 +18,7 @@ To take full advantage of it, you just need to install Stash[^3] porn organizer 
 
 ## Accessing FansDB
 
-1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/RVkCo6oH3uY53GDaHkbevathvxzgyrxRcijr6cfNNe0/embed/){target=_blank}.
+1. Submit an [application to join](https://cryptpad.fr/form/#/2/form/view/qsc+HomZkJmjfQp0QRTDhN8JHgVt35pl1tG2n06Gy5o/embed/){target=_blank}.
 2. Once you receive an invitation code, register an account at [https://fansdb.cc/register](https://fansdb.cc/register){target=_blank}.[^5]
 3. Login using your username (not email) and password. 
 4. While logged in, click on your :fontawesome-solid-user: username at the top of the menu bar and find an **API key** and **GraphQL Endpoint** sections. 
@@ -31,4 +31,4 @@ To take full advantage of it, you just need to install Stash[^3] porn organizer 
 [^2]: Perceptual hashing allows you to compare similarities between multiple multimedia files by hamming distance. Which means that despite difference in resolution, encoding or basic changes to the source file it can still be grouped together and matched easily. Read more about it [here](https://en.wikipedia.org/wiki/Perceptual_hashing){target=_blank}.
 [^3]: [https://github.com/stashapp/stash](https://github.com/stashapp/stash){target=_blank}
 [^4]: [https://docs.stashapp.cc/installation](https://docs.stashapp.cc/installation){target=_blank}
-[^5]: Avoid `@icloud.com` email provider as some users reported not getting activation emails. 
+[^5]: Avoid `@icloud.com`, `@mac.com`, `@me.com` email addresses as some users reported not getting activation emails. 
