@@ -32,4 +32,4 @@ To take full advantage of it, you just need to install Stash[^3] porn organizer 
 [^3]: [https://github.com/stashapp/stash](https://github.com/stashapp/stash){target=_blank}
 [^4]: [https://docs.stashapp.cc/installation](https://docs.stashapp.cc/installation){target=_blank}
 [^5]: Avoid `@icloud.com`, `@mac.com`, `@me.com` email addresses as some users reported not getting activation emails. 
-[^6]: Check your spam folder as some users have reported activation email going theree. If it's there, please mark it as "Not Spam" so future messages go to inbox.
+[^6]: Check your spam folder as some users have reported activation email going there. If it's there, please mark it as "Not Spam" so that any future messages would go to inbox.
