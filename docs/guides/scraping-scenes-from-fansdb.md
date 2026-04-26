@@ -45,7 +45,7 @@ Recommended to people that value accuracy the most. It can automatically go thro
 
 1. Click on **Scrape All** and look through the results. Add missing objects and click **Save**.
     1. If you got returned **No results found**, you can try using query method. You can enter title, performer, release date, or studio and click **Search**. Keep in mind that sometimes fewer details are better.
-    1. If you know the scene exists on FansDB instance, but it wasn't found, you can input the exact UUID (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx) from scene link in the *Query** field, click **Search** and it will return that exact scene.
+    1. If you know the scene exists on FansDB instance, but it wasn't found, you can input the exact Stash ID (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx) from scene link in the **Query** box and click **Search**. It will return that exact scene.
 1. For scenes that you clicked **Save** on, you will be prompted to submit your fingerprints (file hashes) back to the instance to help improve the accuracy for everyone else. Scroll to the top and click **Submit x fingerprints**.
 
     ??? info "Fingerprints"
