@@ -119,7 +119,7 @@ nav:
     - Networks: networks.md
   - Guides:
     - guides/index.md
-    - Scraping scenes via FansDB: guides/scraping-scenes-via-fansdb.md
+    - Scraping scenes from FansDB: guides/scraping-scenes-from-fansdb.md
     - Submitting content to FansDB: guides/submitting-content-to-fansdb.md
     - Updating content on FansDB: guides/updating-content-on-fansdb.md
   - Updates:
