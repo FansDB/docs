@@ -14,7 +14,7 @@ FansDB is an invite-only crowdsourced metadata database focused on independent a
 
 FansDB runs on stash-box[^1] which uses perceptual hashing[^2] to make matching your local files to FansDB metadata very easy. It eliminates the common struggle of unreliable filenames or files being in different resolution not matching.
 
-To take full advantage of it, you just need to install Stash[^3] porn organizer application. It will be able to connect directly to the FansDB database. Follow their documentation[^4] for installation instructions.
+To take full advantage of it, you will want to install Stash[^3] application, a local content player and organizer. It will be able to connect directly to the FansDB database. Follow their documentation[^4] for installation instructions.
 
 ## Accessing FansDB
 
