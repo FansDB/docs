@@ -10,7 +10,7 @@ comments: true
 
 We updated to the new version of stash-box, which brings some great new features. Highlighting some of the changes:
 
-1. Major search rewrite - no longer limited to 10 results, ability to filter performers by gender, now considers disambigaution when searching for performers, and much more. If you find edge cases where search doesn't work as expected, [please report them to stash-box GitHub](https://github.com/stashapp/stash-box/issues){target=_blank}.
+1. Major search rewrite - no longer limited to 10 results, ability to filter performers by gender, now considers disambiguation when searching for performers, and much more. If you find edge cases where search doesn't work as expected, [please report them to stash-box GitHub](https://github.com/stashapp/stash-box/issues){target=_blank}.
 2. Entity URL parsing in search - can now search using internal URLs and UUIDs.
 3. Move/delete fingerprints - moderators can now move or delete fingerprints from the UI.
 4. Bra size field - bra sizes are now split into cup and band size fields.
