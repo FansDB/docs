@@ -63,6 +63,7 @@ To create or submit a new performer, include the following minimum required info
 1. Do not add animated images.
 1. Do not add image compilations/collages.
 1. Do not add images that have 3rd-party watermarks.
+1. Do not add images larger than 1MB.
 </div>
 1.  The main purpose of these images is to identify the performer. It shouldn't be used as a way to host your favorites.
 
