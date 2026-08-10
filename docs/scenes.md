@@ -109,6 +109,7 @@ Limitations:
 
 1. Do not add animated, drawn, 2D or 3D covers.
 1. Do not add cover images that have 3rd-party watermarks.(1)
+1. Do not add images larger than 1MB.
 </div>
 1.  Blurred, cropped or otherwise hidden watermarks are acceptable.
 
